@@ -5,6 +5,7 @@
 * [功能说明](chapter1.md)
    * [线路规划](xian_lu_gui_hua.md)
    * [网点标注](wang_dian_biao_zhu.md)
+       * 点面关系判断与点面绑定
    * 区域管理
    * 位置智能
 * 解决方案
