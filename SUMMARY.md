@@ -19,6 +19,6 @@
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何快速添加海量点图层](ru_he_kuai_su_tian_jia_hai_liang_dian_tu_ceng.md)
    * 热力图图层
-       * 5分钟搞定基于位置的订单与人员匹配分析
+       * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
 * 新功能速递
 
