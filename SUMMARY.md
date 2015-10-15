@@ -8,7 +8,7 @@
        * [批量修改点标注的图标样式](pi_liang_xiu_gai_dian_biao_zhu_de_tu_biao_yang_shi.md)
        * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
        * [批量添加点标注](pi_liang_tian_jia_dian_biao_zhu.md)
-       * 网点标注地图入门
+       * [网点标注地图入门](wang_dian_biao_zhu_di_tu_ru_men.md)
    * [线路规划](xian_lu_gui_hua.md)
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
    * 区域管理
