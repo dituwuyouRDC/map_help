@@ -13,7 +13,7 @@
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
    * 区域管理
    * 位置智能
-* 解决方案
+* [解决方案](jie_jue_fang_an.md)
 * 小技巧
    * [海量点图层](hai_liang_dian_tu_ceng.md)
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
