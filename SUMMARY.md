@@ -17,5 +17,6 @@
 * 小技巧
    * [海量点图层](hai_liang_dian_tu_ceng.md)
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
+       * 如何快速添加海量点图层
 * 新功能速递
 
