@@ -24,5 +24,6 @@
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
    * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
+   * 基于地图的户外广告管理系统
 * 新功能速递
 
