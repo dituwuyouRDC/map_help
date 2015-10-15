@@ -22,5 +22,6 @@
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
 * [解决方案](jie_jue_fang_an.md)
+   * 分区统计
 * 新功能速递
 
