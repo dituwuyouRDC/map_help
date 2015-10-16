@@ -13,8 +13,6 @@
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
    * 区域管理
    * 位置智能
-* 小技巧
-   * 如何拷贝数据到新建图层中
 * 图层模式
    * [海量点图层](hai_liang_dian_tu_ceng.md)
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
@@ -23,6 +21,8 @@
        * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
+* 小技巧
+   * 如何拷贝数据到新建图层中
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
    * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
