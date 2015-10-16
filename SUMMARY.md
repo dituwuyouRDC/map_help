@@ -13,6 +13,7 @@
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
    * 区域管理
    * 位置智能
+* 小技巧
 * 图层模式
    * [海量点图层](hai_liang_dian_tu_ceng.md)
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
@@ -27,5 +28,4 @@
    * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
 * 新功能速递
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
-* 小技巧
 
