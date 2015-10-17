@@ -23,7 +23,7 @@
        * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
-* 小技巧
+* [小技巧](xiao_ji_qiao.md)
    * [如何拷贝数据到新建图层中](ru_he_kao_bei_shu_ju_dao_xin_jian_tu_ceng_zhong.md)
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
    * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
