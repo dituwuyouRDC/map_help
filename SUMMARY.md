@@ -30,6 +30,7 @@
    * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
    * [从高德云图导入数据](cong_gao_de_yun_tu_dao_ru_shu_ju.md)
    * [从地图汇导入数据](cong_di_tu_hui_dao_ru_shu_ju.md)
+   * 数据表格视图：添加行列、下载数据
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
    * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
