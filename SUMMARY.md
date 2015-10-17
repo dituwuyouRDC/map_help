@@ -28,7 +28,6 @@
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
    * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
-   * [从高德云图导入数据](tips)
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
    * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
