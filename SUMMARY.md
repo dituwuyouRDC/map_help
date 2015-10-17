@@ -26,6 +26,7 @@
 * 小技巧
    * [如何拷贝数据到新建图层中](ru_he_kao_bei_shu_ju_dao_xin_jian_tu_ceng_zhong.md)
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
+   * 把地图嵌入到其他网站
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
    * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
