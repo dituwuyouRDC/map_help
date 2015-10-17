@@ -29,5 +29,5 @@
    * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
 * 新功能速递
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
-   * 这些特性,您都造吗
+   * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
 
