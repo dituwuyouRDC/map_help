@@ -2,7 +2,7 @@
 
 地图无忧中不仅可以对单个点的图标样式进行修改，还支持对某一图层所有点的图标样式进行批量修改。   
 
-1、点击图层名称右边的!![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%BD%91%E7%82%B9%E6%A0%87%E6%B3%A80.jpg)按钮，对点的图标样式进行批量修改。
+1、点击图层名称右边的![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%BD%91%E7%82%B9%E6%A0%87%E6%B3%A80.jpg)按钮，对点的图标样式进行批量修改。
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E7%82%B9%E6%A0%87%E6%B3%A8%E7%9A%84%E5%9B%BE%E6%A0%87%E6%A0%B7%E5%BC%8F1.jpg)
 
