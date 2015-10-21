@@ -1,6 +1,6 @@
 # 这些特性,您都造吗
 
-![](weixintu1.png)
+![](http://pic.dituwuyou.com/map%2Fpicture%2Fweixintu1.png)
 
 在我们程序猿的努力下，地图无忧又更新了一些新的特性，这些特性您都造吗？ 
 
