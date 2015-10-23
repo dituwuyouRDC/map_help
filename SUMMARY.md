@@ -45,7 +45,6 @@
        * [网点标注地图入门](wang_dian_biao_zhu_di_tu_ru_men.md)
    * 编辑标注对象
        * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
-       * 123
    * 修改标注风格
        * 123
    * 合并图层
