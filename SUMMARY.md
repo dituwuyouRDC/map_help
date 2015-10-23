@@ -24,7 +24,6 @@
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
-   * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
 * 新功能速递
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
@@ -71,6 +70,7 @@
        * [点面关系判断与点面绑定](dian_mian_guan_xi_pan_duan_yu_dian_mian_bang_ding.md)
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
+   * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
    * 基于地图的户外广告管理系统
 * 付费方案
    * 网点标注
