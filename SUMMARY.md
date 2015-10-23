@@ -46,7 +46,6 @@
        * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
    * 修改标注风格
        * [批量修改点标注的图标样式](pi_liang_xiu_gai_dian_biao_zhu_de_tu_biao_yang_shi.md)
-       * 123
    * 合并图层
        * 123
    * 动态评论及显示
