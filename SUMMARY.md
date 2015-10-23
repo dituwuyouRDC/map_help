@@ -25,7 +25,6 @@
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
 * [小技巧](xiao_ji_qiao.md)
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
-   * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
    * [从高德云图导入数据](cong_gao_de_yun_tu_dao_ru_shu_ju.md)
    * [从地图汇导入数据](cong_di_tu_hui_dao_ru_shu_ju.md)
@@ -36,6 +35,7 @@
 * 新功能速递
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
+* [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
 * 常见问题
    * 怎么快速绘制我的业务网点地图？
    * 怎么打印我的业务网点地图？
