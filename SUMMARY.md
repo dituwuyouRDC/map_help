@@ -4,7 +4,6 @@
 * [使用流程](shi_yong_liu_cheng.md)
 * [功能说明](chapter1.md)
    * [网点标注](网点标注|地图无忧—小百科)
-       * [点面关系判断与点面绑定](dian_mian_guan_xi_pan_duan_yu_dian_mian_bang_ding.md)
        * [批量修改点标注的图标样式](pi_liang_xiu_gai_dian_biao_zhu_de_tu_biao_yang_shi.md)
        * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
        * [批量添加点标注](pi_liang_tian_jia_dian_biao_zhu.md)
@@ -70,6 +69,7 @@
    * 自定义路线
 * API 调用
    * 点面判断
+       * [点面关系判断与点面绑定](dian_mian_guan_xi_pan_duan_yu_dian_mian_bang_ding.md)
        * 123
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
