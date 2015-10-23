@@ -20,7 +20,6 @@
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何快速添加海量点图层](ru_he_kuai_su_tian_jia_hai_liang_dian_tu_ceng.md)
    * 热力图图层
-       * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
 * [小技巧](xiao_ji_qiao.md)
@@ -71,6 +70,7 @@
    * 点面判断
 * 最佳实践
    * 5分钟搞定基于位置的订单与人员匹配分析
+   * [5分钟搞定基于位置的订单与人员匹配分析](5fen_zhong_gao_ding_ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
    * 基于地图的户外广告管理系统
 * 付费方案
    * 网点标注
