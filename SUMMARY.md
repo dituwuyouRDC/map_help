@@ -59,6 +59,7 @@
    * 新建热力图层
    * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
    * 修改热力图层的风格
+       * 123
 * 片区划分
    * 创建区域
    * 导入区域数据
