@@ -6,7 +6,6 @@
    * [网点标注](网点标注|地图无忧—小百科)
    * [线路规划](xian_lu_gui_hua.md)
    * [区域管理](qu_yu_guan_li.md)
-       * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
        * [区域图层修改设置：样式修改、查看数据视图](qu_yu_tu_ceng_xiu_gai_she_zhi_ff1a_yang_shi_xiu_gai_3001_cha_kan_shu_ju_shi_tu.md)
    * 位置智能
 * 图层模式
@@ -60,6 +59,7 @@
    * 修改热力图层的风格
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
 * 片区划分
+   * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
    * 创建区域
        * 123
    * 导入区域数据
