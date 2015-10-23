@@ -40,8 +40,8 @@
    * 怎么打印我的业务网点地图？
    * 为什么新建的对象会跑到其他图层上面？
    * 怎么把地图分享给他人？
-   * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * 怎么挪动标注？
+* [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
 * 地图
    * 创建地图
        * [如何拷贝数据到新建图层中](ru_he_kao_bei_shu_ju_dao_xin_jian_tu_ceng_zhong.md)
