@@ -20,7 +20,6 @@
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何快速添加海量点图层](ru_he_kuai_su_tian_jia_hai_liang_dian_tu_ceng.md)
    * 热力图图层
-       * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
 * [小技巧](xiao_ji_qiao.md)
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
@@ -58,6 +57,7 @@
    * 从高德云图导入网点标注
 * 热力图层
    * 新建热力图层
+   * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
    * 修改热力图层的风格
 * 片区划分
    * 创建区域
