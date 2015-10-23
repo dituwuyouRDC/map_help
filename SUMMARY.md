@@ -59,8 +59,8 @@
    * 修改热力图层的风格
        * [热力图图层修改设置：修改显示效果、查看数据视图](re_li_tu_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_xian_shi_xiao_guo_3001_cha_kan_shu_ju_shi_tu.md)
 * 片区划分
-   * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
    * 创建区域
+       * [如何在地图上划分销售区域、配送范围](ji_yu_wei_zhi_de_ding_dan_yu_ren_yuan_pi_pei_fen_xi.md)
        * 123
    * 导入区域数据
    * 修改区域风格
