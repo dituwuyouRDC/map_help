@@ -68,6 +68,7 @@
 * 路线规划
    * 自定义路线
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
+* 数据视图
 * API 调用
    * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * 点面判断
@@ -79,5 +80,4 @@
    * 网点标注
    * API 调用
 * 联系我们
-* 数据视图
 
