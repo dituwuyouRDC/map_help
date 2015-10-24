@@ -52,6 +52,7 @@
    * 从高德云图导入网点标注
        * [从高德云图导入数据](cong_gao_de_yun_tu_dao_ru_shu_ju.md)
        * 123
+   * 重复使用已有数据
 * 热力图层
    * 新建热力图层
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
