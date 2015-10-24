@@ -11,7 +11,6 @@
    * [海量点图层](hai_liang_dian_tu_ceng.md)
    * 热力图图层
 * [小技巧](xiao_ji_qiao.md)
-   * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
 * [解决方案](jie_jue_fang_an.md)
    * [分区统计](fen_qu_tong_ji.md)
@@ -30,6 +29,7 @@
        * [如何拷贝数据到新建图层中](ru_he_kao_bei_shu_ju_dao_xin_jian_tu_ceng_zhong.md)
    * 编辑地图
        * [更改地图显示范围](geng_gai_di_tu_xian_shi_fan_wei.md)
+   * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
    * 修改地图
    * 管理地图团队
 * 网点标注
