@@ -11,7 +11,6 @@
    * [海量点图层](hai_liang_dian_tu_ceng.md)
    * 热力图图层
 * 新功能速递
-   * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
 * 常见问题
    * 怎么快速绘制我的业务网点地图？
@@ -67,6 +66,7 @@
 * 扩展功能
    * [分区统计](fen_qu_tong_ji.md)
 * 数据视图
+   * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
 * API 调用
    * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
