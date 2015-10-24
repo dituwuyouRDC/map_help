@@ -9,7 +9,6 @@
    * 位置智能
 * 图层模式
    * [海量点图层](hai_liang_dian_tu_ceng.md)
-       * [如何快速添加海量点图层](ru_he_kuai_su_tian_jia_hai_liang_dian_tu_ceng.md)
    * 热力图图层
 * [小技巧](xiao_ji_qiao.md)
    * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
@@ -36,6 +35,7 @@
 * 网点标注
    * 新建标注图层
        * [批量添加点标注](pi_liang_tian_jia_dian_biao_zhu.md)
+       * [如何快速添加海量点图层](ru_he_kuai_su_tian_jia_hai_liang_dian_tu_ceng.md)
        * [网点标注地图入门](wang_dian_biao_zhu_di_tu_ru_men.md)
    * 编辑标注对象
        * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
