@@ -7,8 +7,6 @@
    * [线路规划](xian_lu_gui_hua.md)
    * [区域管理](qu_yu_guan_li.md)
    * 位置智能
-* 图层模式
-   * 热力图图层
 * 常见问题
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
    * 怎么快速绘制我的业务网点地图？
