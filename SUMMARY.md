@@ -2,11 +2,6 @@
 
 * [帮助](README.md)
 * [使用流程](shi_yong_liu_cheng.md)
-* [功能说明](chapter1.md)
-   * [网点标注](网点标注|地图无忧—小百科)
-   * [线路规划](xian_lu_gui_hua.md)
-   * [区域管理](qu_yu_guan_li.md)
-   * 位置智能
 * 常见问题
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
    * 怎么快速绘制我的业务网点地图？
