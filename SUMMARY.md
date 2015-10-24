@@ -12,7 +12,6 @@
    * 热力图图层
 * [小技巧](xiao_ji_qiao.md)
 * [解决方案](jie_jue_fang_an.md)
-   * [分区统计](fen_qu_tong_ji.md)
 * 新功能速递
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
@@ -68,6 +67,7 @@
    * 自定义路线
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
 * 扩展功能
+   * [分区统计](fen_qu_tong_ji.md)
    * 123
 * 数据视图
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
