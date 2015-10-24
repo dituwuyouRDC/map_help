@@ -67,6 +67,7 @@
 * 路线规划
    * 自定义路线
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
+* 扩展功能
 * 数据视图
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
 * API 调用
@@ -80,5 +81,4 @@
    * 网点标注
    * API 调用
 * 联系我们
-* 扩展功能
 
