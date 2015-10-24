@@ -53,6 +53,7 @@
        * 123
    * [如何重复使用已有图层](ru_he_zhong_fu_shi_yong_yi_you_tu_ceng.md)
    * 重复使用已有数据
+       * 123
 * 热力图层
    * 新建热力图层
        * [如何制作热力图heatmap](ru_he_zhi_zuo_re_li_tu_heatmap.md)
