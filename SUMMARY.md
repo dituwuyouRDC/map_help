@@ -18,7 +18,6 @@
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [这些特性,您都造吗](zhe_xie_te_60272c_nin_du_zao_ma.md)
 * 常见问题
-   * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * 怎么快速绘制我的业务网点地图？
    * 怎么打印我的业务网点地图？
    * 为什么新建的对象会跑到其他图层上面？
@@ -70,6 +69,7 @@
    * 自定义路线
        * [如何在图层上添加线路](ru_he_zai_tu_ceng_shang_tian_jia_xian_lu.md)
 * API 调用
+   * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * 点面判断
        * [点面关系判断与点面绑定](dian_mian_guan_xi_pan_duan_yu_dian_mian_bang_ding.md)
 * 最佳实践
