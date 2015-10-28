@@ -14,7 +14,7 @@
    * 编辑地图
        * [更改地图显示范围](change_map.md)
    * 修改地图
-       * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
+       * [图层设置功能](layer_settings.md)
    * 管理地图团队
 * 网点标注
    * 新建标注图层
