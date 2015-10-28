@@ -7,7 +7,7 @@
    * 为什么新建的对象会跑到其他图层上面？
    * 怎么把地图分享给他人？
    * 怎么挪动标注？
-   * 这些功能,您都造吗
+   * [这些功能,您都造吗](zhe_xie_gong_80fd2c_nin_du_zao_ma.md)
 * 地图
    * 创建地图
        * [如何拷贝数据到新建图层中](ru_he_kao_bei_shu_ju_dao_xin_jian_tu_ceng_zhong.md)
