@@ -12,7 +12,7 @@
    * 创建地图
        * [如何拷贝数据到新建图层中](copy_data.md)
    * 编辑地图
-       * [更改地图显示范围](geng_gai_di_tu_xian_shi_fan_wei.md)
+       * [更改地图显示范围](change_map.md)
    * 修改地图
        * [图层设置功能](tu_ceng_she_zhi_gong_neng.md)
    * 管理地图团队
