@@ -20,7 +20,7 @@
    * 新建标注图层
        * [如何快速添加海量点图层](bigdata_layer.md)
        * [批量添加点标注](maker_batch.md)
-       * [网点标注地图入门](map_entry.md)
+       * [网点标注地图入门](map-entry.md)
    * 编辑标注对象
        * [编辑点标注数据](mark-data.md)
    * 修改标注风格
