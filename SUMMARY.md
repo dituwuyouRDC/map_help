@@ -22,7 +22,7 @@
        * [批量添加点标注](maker_batch.md)
        * [网点标注地图入门](map_entry.md)
    * 编辑标注对象
-       * [编辑点标注数据](bian_ji_dian_biao_zhu_shu_ju.md)
+       * [编辑点标注数据](mark_data.md)
    * 修改标注风格
        * [海量点图层修改设置：修改样式、查看数据视图](hai_liang_dian_tu_ceng_xiu_gai_she_zhi_ff1a_xiu_gai_yang_shi_3001_cha_kan_shu_ju_shi_tu.md)
        * [批量修改点标注的图标样式](pi_liang_xiu_gai_dian_biao_zhu_de_tu_biao_yang_shi.md)
