@@ -63,7 +63,7 @@
        * [点面关系判断与点面绑定](marker-in-region.md)
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
-   * [基于地图的户外广告管理系统](ji_yu_di_tu_de_hu_wai_guang_gao_guan_li_xi_tong.md)
+   * [基于地图的户外广告管理系统](outdoors-ad.md)
 * 付费方案
    * 网点标注
    * API 调用
