@@ -18,7 +18,7 @@
    * 管理地图团队
 * 网点标注
    * 新建标注图层
-       * [如何快速添加海量点图层](bigdata_layer.md)
+       * [如何快速添加海量点图层](bigdata-layer.md)
        * [批量添加点标注](maker-batch.md)
        * [网点标注地图入门](map-entry.md)
    * 编辑标注对象
