@@ -25,7 +25,7 @@
        * [编辑点标注数据](mark_data.md)
    * 修改标注风格
        * [海量点图层修改设置：修改样式、查看数据视图](set_mass_layer.md)
-       * [批量修改点标注的图标样式](pi_liang_xiu_gai_dian_biao_zhu_de_tu_biao_yang_shi.md)
+       * [批量修改点标注的图标样式](batch_modify_maker.md)
        * 地图无忧
    * 合并图层
        * 123
