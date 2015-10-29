@@ -56,7 +56,7 @@
    * [分区统计](statistic-analysis.md)
 * 数据视图
    * [数据模块改版，更便捷，更智能](data-template.md)
-   * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
+   * [数据表格视图：添加行列、下载数据](data-tale-view.md)
 * API 调用
    * [把地图嵌入到其他网站](ba_di_tu_qian_ru_dao_qi_ta_wang_zhan.md)
    * 点面判断
