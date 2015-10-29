@@ -31,7 +31,7 @@
    * 动态评论及显示
        * 123
    * 从地图慧导入网点标注
-       * [从地图汇导入数据](cong_di_tu_hui_dao_ru_shu_ju.md)
+       * [从地图汇导入数据](import-dituhui.md)
    * 从高德云图导入网点标注
        * [从高德云图导入数据](cong_gao_de_yun_tu_dao_ru_shu_ju.md)
    * 重复使用已有数据
