@@ -53,7 +53,7 @@
    * 自定义路线
        * [如何在图层上添加线路](add-line.md)
 * 扩展功能
-   * [分区统计](fen_qu_tong_ji.md)
+   * [分区统计](statistic-analysis.md)
 * 数据视图
    * [数据模块改版，更便捷，更智能](shu_ju_mo_kuai_gai_ban_ff0c_geng_bian_jie_ff0c_geng_zhi_neng.md)
    * [数据表格视图：添加行列、下载数据](shu_ju_biao_ge_shi_tu_ff1a_tian_jia_xing_lie_3001_xia_zai_shu_ju.md)
