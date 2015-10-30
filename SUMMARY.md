@@ -26,8 +26,6 @@
    * 修改标注风格
        * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
        * [批量修改点标注的图标样式](batch-modify-maker.md)
-   * 动态评论及显示
-       * 123
    * [从地图汇导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
    * [如何重复使用已有图层](copy-layer.md)
