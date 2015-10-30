@@ -30,9 +30,9 @@
        * 123
    * 动态评论及显示
        * 123
+   * [从高德云图导入数据](import-amap.md)
    * [如何重复使用已有图层](copy-layer.md)
    * 从地图慧导入网点标注
-       * [如何重复使用已有图层](copy-layer.md)
        * [从高德云图导入数据](import-amap.md)
        * [从地图汇导入数据](import-dituhui.md)
    * 重复使用已有数据
