@@ -33,7 +33,6 @@
    * [从地图汇导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
    * [如何重复使用已有图层](copy-layer.md)
-   * 重复使用已有数据
 * 热力图层
    * 新建热力图层
        * [如何制作热力图heatmap](create-heatmap.md)
