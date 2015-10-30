@@ -31,12 +31,11 @@
    * 动态评论及显示
        * 123
    * 从地图慧导入网点标注
+       * [如何重复使用已有图层](copy-layer.md)
        * [从高德云图导入数据](import-amap.md)
        * [从地图汇导入数据](import-dituhui.md)
-   * [如何重复使用已有图层](copy-layer.md)
    * 从高德云图导入网点标注
    * 重复使用已有数据
-       * [如何重复使用已有图层](copy-layer.md)
 * 热力图层
    * 新建热力图层
        * [如何制作热力图heatmap](create-heatmap.md)
