@@ -53,11 +53,11 @@
    * [把地图嵌入到其他网站](map-embed.md)
    * 点面判断
        * [点面关系判断与点面绑定](marker-in-region.md)
-* 最佳实践
-   * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
-   * [基于地图的户外广告管理系统](outdoors-ad.md)
 * [这些功能,您都造吗](new-function.md)
    * 新功能速递
        * 123
    * 123
+* 最佳实践
+   * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
+   * [基于地图的户外广告管理系统](outdoors-ad.md)
 
