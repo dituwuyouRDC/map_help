@@ -4,7 +4,7 @@
 * 常见问题
    * [怎么快速绘制我的业务网点地图](draw-map.md)
    * [怎么打印我的业务网点地图](print-map.md)
-   * [为什么新建的对象会跑到其他图层上面](layer-error.md)
+   * [为什么新建的对象会跑到其他图层上面](cur-layer.md)
    * [怎么把地图分享给他人](shared-map.md)
    * [怎么挪动标注](move-mark.md)
    * [这些功能,您都造吗](new-function.md)
