@@ -7,6 +7,10 @@
    * [为什么新建的对象会跑到其他图层上面](cur-layer.md)
    * [怎么把地图分享给他人](shared-map.md)
    * [数据可以下载吗](download-data.md)
+   * [这些功能,您都造吗](new-function.md)
+       * 新功能速递
+           * 123
+       * 123
    * [怎么挪动标注](move-mark.md)
 * 地图
    * 创建地图
@@ -53,10 +57,6 @@
    * [把地图嵌入到其他网站](map-embed.md)
    * 点面判断
        * [点面关系判断与点面绑定](marker-in-region.md)
-* [这些功能,您都造吗](new-function.md)
-   * 新功能速递
-       * 123
-   * 123
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
