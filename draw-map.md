@@ -24,7 +24,7 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Flatlag2.jpg)
 
-3.其他平台的数据或是GIS数据的导入
+三、其他平台的数据或是GIS数据的导入
 
 [导入高德云图数据](http://help.dituwuyou.com/import-amap.html)
 
@@ -32,6 +32,6 @@
 
 专业GIS数据或是业务系统内部的数据，我们也支持批量导入或api对接的方式导入，如有需要，联系小图：400-616-2048
 
-4.没有现成的数据怎么办？可以通过地图无忧的手机端自动定位采集，指定成员协同采集，信息实时共享
+四、没有现成的数据怎么办？可以通过地图无忧的手机端自动定位采集，指定成员协同采集，信息实时共享
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2FIMG_1660.PNG)
