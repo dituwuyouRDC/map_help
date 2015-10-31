@@ -8,8 +8,6 @@
    * [怎么把地图分享给他人](shared-map.md)
    * [数据可以下载吗](download-data.md)
    * [这些功能,您都造吗](new-function.md)
-       * 新功能速递
-           * 123
        * 123
    * [怎么挪动标注](move-mark.md)
 * 地图
