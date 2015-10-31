@@ -8,7 +8,7 @@
    * [怎么把地图分享给他人](shared-map.md)
    * [怎么挪动标注](move-mark.md)
    * [这些功能,您都造吗](new-function.md)
-   * 数据可以下载吗
+   * [数据可以下载吗](download-data.md)
 * 地图
    * 创建地图
        * [如何拷贝数据到指定图层中](copy-data.md)
