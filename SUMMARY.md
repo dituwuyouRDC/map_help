@@ -6,7 +6,6 @@
    * [怎么打印我的业务网点地图](print-map.md)
    * [为什么新建的对象会跑到其他图层上面](cur-layer.md)
    * [怎么把地图分享给他人](shared-map.md)
-   * [这些功能,您都造吗](new-function.md)
    * [数据可以下载吗](download-data.md)
    * [怎么挪动标注](move-mark.md)
 * 地图
@@ -57,5 +56,6 @@
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
+* [这些功能,您都造吗](new-function.md)
 * 新功能速递
 
