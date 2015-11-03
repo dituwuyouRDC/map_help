@@ -14,6 +14,7 @@
    * 编辑地图
        * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
+   * [如何重复使用已有图层](copy-layer.md)
    * 管理地图
        * [把地图嵌入到其他网站](map-embed.md)
 * 网点标注
@@ -28,7 +29,6 @@
        * [批量修改点标注的图标样式](batch-modify-maker.md)
    * [从地图慧导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
-   * [如何重复使用已有图层](copy-layer.md)
 * 热力图层
    * 新建热力图层
        * [如何制作热力图heatmap](create-heatmap.md)
