@@ -14,7 +14,6 @@
    * 编辑地图
        * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
-   * 修改地图
    * 管理地图
        * [把地图嵌入到其他网站](map-embed.md)
 * 网点标注
