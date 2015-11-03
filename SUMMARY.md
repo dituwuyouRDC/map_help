@@ -16,6 +16,7 @@
    * 修改地图
        * [图层设置功能](layer-settings.md)
    * 管理地图
+       * [把地图嵌入到其他网站](map-embed.md)
        * 123
 * 网点标注
    * 新建标注图层
@@ -51,7 +52,6 @@
    * [数据模块改版，更便捷，更智能](data-template.md)
    * [数据表格视图：添加行列、下载数据](data-tale-view.md)
 * API 调用
-   * [把地图嵌入到其他网站](map-embed.md)
    * 点面判断
        * [点面关系判断与点面绑定](marker-in-region.md)
 * 最佳实践
