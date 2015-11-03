@@ -38,6 +38,7 @@
    * 创建区域
        * [如何在地图上划分销售区域、配送范围](draw-region.md)
    * 导入区域数据
+   * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
    * 修改区域风格
        * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
    * 编辑区域对象
