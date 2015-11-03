@@ -15,7 +15,7 @@
        * [更改地图显示范围](change-map.md)
    * 修改地图
        * [图层设置功能](layer-settings.md)
-   * 管理地图团队
+   * 管理地图
 * 网点标注
    * 新建标注图层
        * [如何快速添加海量点图层](bigdata-layer.md)
