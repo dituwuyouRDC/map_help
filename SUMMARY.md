@@ -52,6 +52,7 @@
    * [数据模块改版，更便捷，更智能](data-template.md)
    * [数据表格视图：添加行列、下载数据](data-tale-view.md)
 * API 调用
+   * [点面关系判断与点面绑定](marker-in-region.md)
    * 点面判断
        * [点面关系判断与点面绑定](marker-in-region.md)
 * 最佳实践
