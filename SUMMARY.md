@@ -32,10 +32,9 @@
    * [从高德云图导入数据](import-amap.md)
 * 热力图层
    * [如何制作热力图heatmap](create-heatmap.md)
-   * [热力图图层修改设置：修改显示效果、查看数据视图](heatmap-setting.md)
+   * [修改热力图层显示效果](heatmap-setting.md)
    * 新建热力图层
    * 修改热力图层的风格
-       * [热力图图层修改设置：修改显示效果、查看数据视图](heatmap-setting.md)
 * 片区划分
    * [如何在地图上划分销售区域、配送范围](draw-region.md)
    * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
