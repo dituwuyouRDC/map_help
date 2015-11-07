@@ -14,8 +14,8 @@
        * [绘制地图](draw-a-map.md)
        * [更改地图显示范围](change-map.md)
        * [个性化地图设置](personalized-map.md)
-       * [如何拷贝数据到指定图层中](copy-data.md)
        * [图层设置功能](layer-settings.md)
+       * [如何拷贝数据到指定图层中](copy-data.md)
        * [如何重复使用已有图层](copy-layer.md)
    * 管理地图
        * [把地图嵌入到其他网站](map-embed.md)
