@@ -26,8 +26,6 @@
        * [批量添加点标注](maker-batch.md)
        * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
-   * 编辑标注对象
-       * [编辑点标注数据](mark-data.md)
    * 修改标注风格
        * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
        * [批量修改点标注的图标样式](batch-modify-maker.md)
