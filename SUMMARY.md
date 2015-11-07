@@ -44,7 +44,6 @@
 * 统计分析
    * [分区统计](statistic-analysis.md)
 * 数据视图
-   * [数据模块改版，更便捷，更智能](data-template.md)
    * [数据表格视图：添加行列、下载数据](data-tale-view.md)
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
