@@ -22,9 +22,9 @@
        * [把地图嵌入到其他网站](map-embed.md)
 * 网点标注
    * 新建标注图层
+       * [网点标注地图入门](map-entry.md)
        * [如何快速添加海量点图层](bigdata-layer.md)
        * [批量添加点标注](maker-batch.md)
-       * [网点标注地图入门](map-entry.md)
    * 编辑标注对象
        * [编辑点标注数据](mark-data.md)
    * 修改标注风格
