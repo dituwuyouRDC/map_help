@@ -19,6 +19,7 @@
        * [个性化地图设置](personalized-map.md)
    * 管理地图
        * [把地图嵌入到其他网站](map-embed.md)
+       * 地图权限设置
 * 网点标注
    * 新建标注图层
        * [如何快速添加海量点图层](bigdata-layer.md)
