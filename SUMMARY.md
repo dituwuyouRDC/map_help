@@ -41,7 +41,7 @@
    * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
 * 路线规划
    * [如何在图层上添加线路](add-line.md)
-* 扩展功能
+* 统计分析
    * [分区统计](statistic-analysis.md)
 * 数据视图
    * [数据模块改版，更便捷，更智能](data-template.md)
