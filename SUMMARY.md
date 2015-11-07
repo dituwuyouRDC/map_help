@@ -10,8 +10,8 @@
    * [怎么挪动标注](move-mark.md)
 * 地图
    * 创建地图
-       * [如何拷贝数据到指定图层中](copy-data.md)
    * 编辑地图
+       * [如何拷贝数据到指定图层中](copy-data.md)
        * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
        * [如何重复使用已有图层](copy-layer.md)
