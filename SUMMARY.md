@@ -32,8 +32,8 @@
    * [从高德云图导入数据](import-amap.md)
 * 热力图层
    * [如何制作热力图heatmap](create-heatmap.md)
+   * [热力图图层修改设置：修改显示效果、查看数据视图](heatmap-setting.md)
    * 新建热力图层
-       * [如何制作热力图heatmap](create-heatmap.md)
    * 修改热力图层的风格
        * [热力图图层修改设置：修改显示效果、查看数据视图](heatmap-setting.md)
 * 片区划分
