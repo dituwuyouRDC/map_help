@@ -33,7 +33,6 @@
 * 热力图层
    * [如何制作热力图heatmap](create-heatmap.md)
    * [修改热力图层显示效果](heatmap-setting.md)
-   * 新建热力图层
    * 修改热力图层的风格
 * 片区划分
    * [如何在地图上划分销售区域、配送范围](draw-region.md)
