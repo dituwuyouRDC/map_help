@@ -9,7 +9,7 @@
    * [数据可以下载吗](download-data.md)
    * [怎么挪动标注](move-mark.md)
 * 地图
-   * 新建地图
+   * [新建地图](new-map.md)
    * 编辑地图
        * [如何拷贝数据到指定图层中](copy-data.md)
        * [图层设置功能](layer-settings.md)
