@@ -1,6 +1,6 @@
 # Summary
 
-* [帮助](README.md)
+* [介绍](README.md)
 * 常见问题
    * [怎么快速绘制我的业务网点地图](draw-map.md)
    * [怎么打印我的业务网点地图](print-map.md)
