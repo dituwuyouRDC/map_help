@@ -41,10 +41,10 @@
    * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
 * 路线规划
    * [如何在图层上添加线路](add-line.md)
-* 统计分析
-   * [分区统计](statistic-analysis.md)
 * 数据视图
    * [数据表格视图：添加行列、下载数据](data-tale-view.md)
+* 统计分析
+   * [分区统计](statistic-analysis.md)
 * 最佳实践
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
