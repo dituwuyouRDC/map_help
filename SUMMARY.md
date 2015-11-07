@@ -18,7 +18,7 @@
        * [如何拷贝数据到指定图层中](copy-data.md)
        * [如何重复使用已有图层](copy-layer.md)
    * 管理地图
-       * [地图权限设置](map-permissions.md)
+       * [地图权限](map-permissions.md)
        * [地图分享](map-embed.md)
 * 网点标注
    * 新建标注图层
