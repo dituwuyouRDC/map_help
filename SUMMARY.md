@@ -18,8 +18,8 @@
        * [如何拷贝数据到指定图层中](copy-data.md)
        * [如何重复使用已有图层](copy-layer.md)
    * 管理地图
-       * [把地图嵌入到其他网站](map-embed.md)
        * [地图权限设置](map-permissions.md)
+       * [把地图嵌入到其他网站](map-embed.md)
 * 网点标注
    * 新建标注图层
        * [如何快速添加海量点图层](bigdata-layer.md)
