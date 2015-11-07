@@ -16,7 +16,7 @@
        * [更改地图显示范围](change-map.md)
        * [如何重复使用已有图层](copy-layer.md)
        * [绘制地图](draw-a-map.md)
-       * 个性化地图设置
+       * [个性化地图设置](personalized-map.md)
    * 管理地图
        * [把地图嵌入到其他网站](map-embed.md)
 * 网点标注
