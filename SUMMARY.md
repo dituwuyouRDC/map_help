@@ -8,7 +8,7 @@
    * [怎么把地图分享给他人](shared-map.md)
    * [数据可以下载吗](download-data.md)
    * [怎么挪动标注](move-mark.md)
-   * 怎么在地图上显示文字
+   * [怎么在地图上显示文字](display-label)
 * 地图
    * [新建地图](new-map.md)
    * [编辑地图](ditubianji.md)
