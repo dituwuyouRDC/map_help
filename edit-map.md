@@ -9,7 +9,7 @@
 
 **区域图层：**用多边形来表达业务区域的划分，如销售片区、配送区域、乡镇行政边界等。
 
-
+![](http://www.dituwuyou.com/map%2Fpicture%2Fmap.jpg)
 
 这里，为大家介绍地图编辑的基本操作：
 1. [新建图层及添加对象](http://help.dituwuyou.com/draw-a-map.html)
