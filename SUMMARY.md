@@ -15,7 +15,7 @@
        * [添加图层及对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
-       * [个性化地图设置](personalized-map.md)
+       * [修改地图主题](personalized-map.md)
        * [拷贝数据到指定图层中](copy-data.md)
        * [重复使用已有图层](copy-layer.md)
    * [地图权限](map-permissions.md)
