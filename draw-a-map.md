@@ -11,6 +11,7 @@
 图层建好后，就要在相应的图层上添加对象了。地图无忧中，不仅可以单个绘制添加，还支持一键导入。添加对象前，在图层列表中选中要编辑的目标图层，如下图所示：
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fcurlayer.jpg)
 
+下面，我们来看一下，怎么添加对象：
 * 
 [添加标注对象](http://help.dituwuyou.com/draw-map.html)
 
