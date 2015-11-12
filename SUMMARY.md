@@ -12,7 +12,7 @@
 * [地图](map.md)
    * [新建地图](new-map.md)
    * [编辑地图](edit-map.md)
-       * [新建图层](draw-a-map.md)
+       * [新建图层及添加对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
        * [个性化地图设置](personalized-map.md)
