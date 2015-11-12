@@ -23,7 +23,7 @@
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fheatmap-layer.jpg)
 
 
-这里介绍一下，怎么生成和管理自己的业务地图：
+接下来，来看下怎么生成和管理自己的业务地图：
 1. [新建地图](http://help.dituwuyou.com/new-map.html)
 2. [编辑地图](http://help.dituwuyou.com/edit-map.html)
 3. [地图权限](http://help.dituwuyou.com/map-permissions.html)
