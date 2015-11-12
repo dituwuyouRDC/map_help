@@ -11,7 +11,7 @@
    * [怎么在地图上显示文字](display-label.md)
 * [地图](map.md)
    * [新建地图](new-map.md)
-   * [编辑地图](ditubianji.md)
+   * [编辑地图](edit-map.md)
        * [绘制地图](draw-a-map.md)
        * [更改地图显示范围](change-map.md)
        * [个性化地图设置](personalized-map.md)
