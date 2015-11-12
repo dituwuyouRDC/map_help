@@ -20,7 +20,7 @@
        * [如何重复使用已有图层](copy-layer.md)
    * [地图权限](map-permissions.md)
    * [地图分享](map-embed.md)
-* 网点标注
+* [网点标注](add-marker.md)
    * 新建标注图层
        * [网点标注地图入门](map-entry.md)
        * [批量添加点标注](maker-batch.md)
