@@ -4,7 +4,7 @@
 ### **地图编辑和管理**
 
 
-1. [新建地图](http://help.dituwuyou.com/new-map.html)
+1. [创建或打开地图](http://help.dituwuyou.com/new-map.html)
 2. [编辑地图](http://help.dituwuyou.com/edit-map.html)
 3. [地图权限](http://help.dituwuyou.com/map-permissions.html)
 4. [地图分享](http://help.dituwuyou.com/map-embed.html)
