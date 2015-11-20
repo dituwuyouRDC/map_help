@@ -13,4 +13,5 @@
 
 **删除地图**
 
+* 
 点击地图名称右侧的 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fdelete.png) 可以打开“删除地图”菜单，点击即可删除。地图删除后，不可恢复，请小心操作。
