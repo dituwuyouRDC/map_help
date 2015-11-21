@@ -6,7 +6,7 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fshare3.jpg)
 
-# 把地图嵌入到其他网站
+
 如果你要想把做好的地图，嵌入到你们自己的网站中供别人访问，则需要把地图设置为公开链接，所有人可以访问。
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%85%AC%E5%BC%801.png)
