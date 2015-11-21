@@ -4,6 +4,6 @@
 1. [拷贝图层](http://help.dituwuyou.com/copy-layer.html)
 2. [迁移图层数据](http://help.dituwuyou.com/copy-data.html)
 3. [自定义地图主题](http://help.dituwuyou.com/personalized-map.html)
-4. [在表格中管理数据](http://help.dituwuyou.com/layer-settings.html)
+4. [在表格中管理数据](http://help.dituwuyou.com/data-tale-view.html)
 
 
