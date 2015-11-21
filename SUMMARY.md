@@ -29,7 +29,6 @@
    * [自定义地图主题](personalized-map.md)
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
-* 数据视图
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
 * 最佳实践
