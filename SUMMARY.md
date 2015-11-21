@@ -23,7 +23,6 @@
        * [修改地图主题](personalized-map.md)
        * [迁移图层数据](copy-data.md)
        * [拷贝图层](copy-layer.md)
-   * [共用地图](map-permissions.md)
    * [地图分享](map-embed.md)
 * [网点标注](add-marker.md)
    * 新建标注图层
@@ -36,6 +35,7 @@
        * [批量设置标注样式](batch-modify-maker.md)
    * [从地图慧导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
+* [共用地图](map-permissions.md)
 * 热力图层
    * [制作热力图heatmap](create-heatmap.md)
 * 片区划分
