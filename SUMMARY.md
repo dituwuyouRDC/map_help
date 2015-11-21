@@ -9,7 +9,7 @@
    * [数据可以下载吗](download-data.md)
    * [怎么挪动标注](move-mark.md)
    * [怎么在地图上显示文字](display-label.md)
-* [地图](map.md)
+* [创建地图](map.md)
    * [创建或打开地图](new-map.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
