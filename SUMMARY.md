@@ -28,17 +28,7 @@
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
    * [添加区域及设置区域样式](draw-region.md)
-   * [编辑管理地图](edit-map.md)
-       * [添加图层及对象](draw-a-map.md)
-       * [更改地图显示范围](change-map.md)
-       * [修改地图主题](personalized-map.md)
-       * [迁移图层数据](copy-data.md)
-       * [拷贝图层](copy-layer.md)
    * [地图分享](map-embed.md)
-* [网点标注](add-marker.md)
-   * 新建标注图层
-       * [网点标注地图入门](map-entry.md)
-       * [批量添加点标注](maker-batch.md)
 * [共用地图](map-permissions.md)
 * 数据视图
    * [在表格中管理数据](data-tale-view.md)
