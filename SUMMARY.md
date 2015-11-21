@@ -36,7 +36,6 @@
        * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
 * [共用地图](map-permissions.md)
-* 热力图层
 * 片区划分
 * 数据视图
    * [在表格中管理数据](data-tale-view.md)
