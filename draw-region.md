@@ -17,12 +17,15 @@ a. 修改区域样式
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fregionstyle.png)，在弹出的区域样式对话框中，可以修改区域的填充色、边框颜色、填充透明度等。
 
 b. 编辑区域形状
+
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，区域的节点信息显示出来，开启编辑模式,选中需要编辑的节点拖动到新的位置,即完成一个节点的标注，如此重复，就可以完成对区域形状的调整。调整完成后，再次选中区域对象，点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，结束编辑操作。
 
 c. 编辑区域说明信息
+
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fyes.png)完成即可。
 
 d. 删除区域
+
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除。删除操作不可撤销，请确认后再进行删除。
 
 
