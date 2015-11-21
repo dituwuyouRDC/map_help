@@ -17,6 +17,7 @@
        * [直接绘制及搜索添加](single-add.md)
        * [从地图慧导入数据](import-dituhui.md)
        * [从高德云图导入数据](import-amap.md)
+       * [编辑点标注数据](mark-data.md)
        * [批量设置标注样式](batch-modify-maker.md)
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
@@ -32,7 +33,6 @@
    * 新建标注图层
        * [网点标注地图入门](map-entry.md)
        * [批量添加点标注](maker-batch.md)
-   * [编辑点标注数据](mark-data.md)
 * [共用地图](map-permissions.md)
 * 数据视图
    * [在表格中管理数据](data-tale-view.md)
