@@ -22,7 +22,6 @@
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
    * [添加区域及设置区域样式](draw-region.md)
-   * [地图分享](map-embed.md)
 * [编辑管理地图](edit-map.md)
    * [拷贝图层](copy-layer.md)
    * [迁移图层数据](copy-data.md)
@@ -30,6 +29,7 @@
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
 * 使用地图
+* [地图分享](map-embed.md)
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
 * 最佳实践
