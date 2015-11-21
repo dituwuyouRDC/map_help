@@ -18,7 +18,7 @@
        * [从地图慧导入数据](import-dituhui.md)
        * [从高德云图导入数据](import-amap.md)
        * [批量设置标注样式](batch-modify-maker.md)
-       * [编辑点标注数据](mark-data.md)
+       * [编辑标注数据](mark-data.md)
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
    * [添加区域及设置区域样式](draw-region.md)
