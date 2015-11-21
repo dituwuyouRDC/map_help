@@ -12,7 +12,7 @@
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
-   * 添加标注
+   * [添加标注](addmarker)
    * 路线规划
        * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
