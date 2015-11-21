@@ -19,6 +19,7 @@
        * [从高德云图导入数据](import-amap.md)
        * [批量设置标注样式](batch-modify-maker.md)
    * [制作热力图heatmap](create-heatmap.md)
+   * [添加线路及设置线路样式](add-line.md)
    * 路线规划
        * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
