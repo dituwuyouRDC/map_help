@@ -20,8 +20,6 @@
        * [批量设置标注样式](batch-modify-maker.md)
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
-   * 路线规划
-       * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
