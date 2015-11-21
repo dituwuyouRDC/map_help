@@ -4,7 +4,7 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%85%AC%E5%BC%801.png)
 
-在**地图浏览页面**，右上角有几个按钮，分别是**转发分享、嵌入代码、地图打印**。
+在**地图浏览页面**，右上角有几个按钮，分别是**转发分享、嵌入代码、[地图打印](http://help.dituwuyou.com/print-map.html)**。
 
 转发分享可以把链接或二维码告诉他人，方便他人浏览。
 
