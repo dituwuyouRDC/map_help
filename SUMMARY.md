@@ -18,6 +18,7 @@
        * [从地图慧导入数据](import-dituhui.md)
        * [从高德云图导入数据](import-amap.md)
        * [批量设置标注样式](batch-modify-maker.md)
+   * [制作热力图heatmap](create-heatmap.md)
    * 路线规划
        * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
@@ -38,7 +39,6 @@
        * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
 * [共用地图](map-permissions.md)
 * 热力图层
-   * [制作热力图heatmap](create-heatmap.md)
 * 片区划分
    * [添加区域及设置区域样式](draw-region.md)
 * 数据视图
