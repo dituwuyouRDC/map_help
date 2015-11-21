@@ -2,7 +2,6 @@
 
 * [介绍](README.md)
 * [常见问题](chang_jian_wen_ti.md)
-   * [怎么快速绘制我的业务网点地图](draw-map.md)
    * [怎么打印我的业务网点地图](print-map.md)
    * [为什么新建的对象会跑到其他图层上面](cur-layer.md)
    * [怎么把地图分享给他人](shared-map.md)
