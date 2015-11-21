@@ -24,7 +24,6 @@
    * [添加区域及设置区域样式](draw-region.md)
    * [地图分享](map-embed.md)
 * [编辑管理地图](edit-map.md)
-   * [添加图层及对象](draw-a-map.md)
    * [更改地图显示范围](change-map.md)
    * [修改地图主题](personalized-map.md)
    * [迁移图层数据](copy-data.md)
