@@ -36,7 +36,6 @@
    * [修改热力图层显示效果](heatmap-setting.md)
 * 片区划分
    * [添加区域及设置区域样式](draw-region.md)
-   * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
 * 路线规划
    * [添加线路及设置线路样式](add-line.md)
 * 数据视图
