@@ -12,6 +12,8 @@
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
+   * 路线规划
+       * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
@@ -37,8 +39,6 @@
    * [制作热力图heatmap](create-heatmap.md)
 * 片区划分
    * [添加区域及设置区域样式](draw-region.md)
-* 路线规划
-   * [添加线路及设置线路样式](add-line.md)
 * 数据视图
    * [在表格中管理数据](data-tale-view.md)
 * 统计分析
