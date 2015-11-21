@@ -1,7 +1,6 @@
 # Summary
 
 * [介绍](README.md)
-   * 使用地图
 * [常见问题](chang_jian_wen_ti.md)
    * [怎么快速绘制我的业务网点地图](draw-map.md)
    * [怎么打印我的业务网点地图](print-map.md)
@@ -30,6 +29,7 @@
    * [自定义地图主题](personalized-map.md)
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
+* 使用地图
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
 * 最佳实践
