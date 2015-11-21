@@ -21,7 +21,7 @@
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
    * [添加区域及设置区域样式](draw-region.md)
-   * [编辑地图](edit-map.md)
+   * [编辑管理地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
        * [更改地图显示范围](change-map.md)
        * [修改地图主题](personalized-map.md)
