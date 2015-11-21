@@ -38,7 +38,7 @@
    * [如何在地图上划分销售区域、配送范围](draw-region.md)
    * [区域图层修改设置：样式修改、查看数据视图](regionlayer-setting.md)
 * 路线规划
-   * [如何在图层上添加线路](add-line.md)
+   * [添加线路及设置线路样式](add-line.md)
 * 数据视图
    * [数据表格视图：添加行列、下载数据](data-tale-view.md)
 * 统计分析
