@@ -14,6 +14,4 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BE24.jpg)
 
-点击“**操作**”旁边的**小箭头**，则可以**下载表格数据**，下载的数据包括经纬度、添加时间、修改时间等信息。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%95%B0%E6%8D%AE%E5%9C%B0%E5%9B%BEdown.png)
