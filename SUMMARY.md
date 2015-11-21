@@ -14,8 +14,8 @@
    * [认识图层](layer.md)
    * [添加标注](addmarker.md)
        * [从 excel 批量导入](excel-import.md)
-       * [从高德云图导入数据](import-amap.md)
        * [直接绘制及搜索添加](single-add.md)
+       * [从高德云图导入数据](import-amap.md)
        * [批量设置标注样式](batch-modify-maker.md)
        * [从地图慧导入数据](import-dituhui.md)
    * 路线规划
