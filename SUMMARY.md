@@ -20,6 +20,7 @@
        * [批量设置标注样式](batch-modify-maker.md)
    * [制作热力图heatmap](create-heatmap.md)
    * [添加线路及设置线路样式](add-line.md)
+   * [添加区域及设置区域样式](draw-region.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
@@ -37,7 +38,6 @@
 * [共用地图](map-permissions.md)
 * 热力图层
 * 片区划分
-   * [添加区域及设置区域样式](draw-region.md)
 * 数据视图
    * [在表格中管理数据](data-tale-view.md)
 * 统计分析
