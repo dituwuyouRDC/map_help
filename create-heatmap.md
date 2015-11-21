@@ -26,12 +26,10 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E7%83%AD%E5%8A%9B%E5%9B%BEheatmap5.jpg)
 
-您可进一步对热力图的显示效果进行修改。
-
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E7%83%AD%E5%8A%9B%E5%9B%BEheatmap6.jpg)
 
 **设置样式**
-点击图层名称右边的![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%83%AD%E5%8A%9B%E5%9B%BE%E5%9B%BE%E5%B1%8262.jpg)   按钮，对热力图的显示样式进行修改。可设置数据点影响范围半径、显示的颜色，如下图所示：
+
+如果您想对默认的样式不满意，可以点击图层名称右边的![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%83%AD%E5%8A%9B%E5%9B%BE%E5%9B%BE%E5%B1%8262.jpg)   按钮，通过设置数据点影响范围半径、显示的颜色对热力图的显示样式进行修改，如下图所示：
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%83%AD%E5%8A%9B%E5%9B%BE%E5%9B%BE%E5%B1%827.jpg)
 
