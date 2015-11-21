@@ -11,7 +11,7 @@
    * [怎么在地图上显示文字](display-label.md)
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
-   * [认识图层](layer)
+   * [认识图层](layer.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
        * [图层设置功能](layer-settings.md)
