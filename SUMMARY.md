@@ -33,7 +33,7 @@
    * [嵌入网站](map-embed.md)
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
-* 最佳实践
+* [最佳实践](solutions.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
 
