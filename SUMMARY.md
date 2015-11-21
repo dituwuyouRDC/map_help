@@ -28,8 +28,8 @@
    * [更改地图显示范围](change-map.md)
    * [修改地图主题](personalized-map.md)
    * [迁移图层数据](copy-data.md)
-   * [在表格中管理数据](data-tale-view.md)
    * [拷贝图层](copy-layer.md)
+   * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
 * 数据视图
 * [统计分析](analysis.md)
