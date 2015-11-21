@@ -24,9 +24,9 @@
    * [添加区域及设置区域样式](draw-region.md)
    * [地图分享](map-embed.md)
 * [编辑管理地图](edit-map.md)
+   * [拷贝图层](copy-layer.md)
    * [修改地图主题](personalized-map.md)
    * [迁移图层数据](copy-data.md)
-   * [拷贝图层](copy-layer.md)
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
 * 数据视图
