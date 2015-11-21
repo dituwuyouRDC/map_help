@@ -35,7 +35,6 @@
        * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
    * 修改标注样式
-       * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
 * [共用地图](map-permissions.md)
 * 热力图层
 * 片区划分
