@@ -26,7 +26,7 @@
        * [批量添加点标注](maker-batch.md)
        * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
-   * 修改标注风格
+   * 修改标注样式
        * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
        * [批量设置标注的风格](batch-modify-maker.md)
    * [从地图慧导入数据](import-dituhui.md)
