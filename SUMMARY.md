@@ -23,7 +23,7 @@
        * [修改地图主题](personalized-map.md)
        * [迁移图层数据](copy-data.md)
        * [拷贝图层](copy-layer.md)
-   * [地图权限](map-permissions.md)
+   * [共用地图](map-permissions.md)
    * [地图分享](map-embed.md)
 * [网点标注](add-marker.md)
    * 新建标注图层
