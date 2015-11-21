@@ -34,7 +34,6 @@
        * [批量添加点标注](maker-batch.md)
        * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
-   * 修改标注样式
 * [共用地图](map-permissions.md)
 * 热力图层
 * 片区划分
