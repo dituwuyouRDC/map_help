@@ -30,6 +30,9 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E7%83%AD%E5%8A%9B%E5%9B%BEheatmap6.jpg)
 
-那么到底如何编辑修改热力图的显示效果呢，**详见**：热力图图层修改设置：显示效果修改、查看数据视图
+**设置样式**
+点击图层名称右边的![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%83%AD%E5%8A%9B%E5%9B%BE%E5%9B%BE%E5%B1%8262.jpg)   按钮，对热力图的显示样式进行修改。可设置数据点影响范围半径、显示的颜色，如下图所示：
+
+![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%83%AD%E5%8A%9B%E5%9B%BE%E5%9B%BE%E5%B1%827.jpg)
 
  
