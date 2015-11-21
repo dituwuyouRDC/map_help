@@ -14,7 +14,7 @@
    * [认识图层](layer.md)
    * [添加标注](addmarker.md)
        * [直接绘制及搜索添加](single-add.md)
-       * 从 excel 批量导入
+       * [从 excel 批量导入](excel-import)
    * 路线规划
        * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
