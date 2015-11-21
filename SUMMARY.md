@@ -32,7 +32,6 @@
    * 新建标注图层
        * [网点标注地图入门](map-entry.md)
        * [批量添加点标注](maker-batch.md)
-       * [如何快速添加海量点图层](bigdata-layer.md)
    * [编辑点标注数据](mark-data.md)
 * [共用地图](map-permissions.md)
 * 数据视图
