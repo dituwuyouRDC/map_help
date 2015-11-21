@@ -17,7 +17,7 @@
        * [更改地图显示范围](change-map.md)
        * [修改地图主题](personalized-map.md)
        * [拷贝数据到指定图层中](copy-data.md)
-       * [重复使用已有图层](copy-layer.md)
+       * [拷贝图层](copy-layer.md)
    * [地图权限](map-permissions.md)
    * [地图分享](map-embed.md)
 * [网点标注](add-marker.md)
