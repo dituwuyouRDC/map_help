@@ -29,7 +29,7 @@
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
 * [使用地图](use-map.md)
-   * [嵌入网站](share-map.md)
+   * [嵌入网站](map-embed.md)
 * [地图分享](share-map1.md)
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
