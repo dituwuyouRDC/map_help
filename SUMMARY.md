@@ -23,7 +23,6 @@
    * [添加区域及设置区域样式](draw-region.md)
    * [编辑地图](edit-map.md)
        * [添加图层及对象](draw-a-map.md)
-       * [图层设置功能](layer-settings.md)
        * [更改地图显示范围](change-map.md)
        * [修改地图主题](personalized-map.md)
        * [迁移图层数据](copy-data.md)
