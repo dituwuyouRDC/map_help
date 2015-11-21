@@ -13,7 +13,7 @@
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
    * [添加标注](addmarker.md)
-       * [直接绘制及搜索添加](zhi_jie_hui_zhi_ji_sou_suo_tian_jia.md)
+       * [直接绘制及搜索添加](single-add.md)
    * 路线规划
        * [添加线路及设置线路样式](add-line.md)
    * [编辑地图](edit-map.md)
