@@ -28,7 +28,7 @@
    * [编辑点标注数据](mark-data.md)
    * 修改标注风格
        * [海量点图层修改设置：修改样式、查看数据视图](set-mass-layer.md)
-       * [批量修改点标注的图标样式](batch-modify-maker.md)
+       * [批量设置标注的风格](batch-modify-maker.md)
    * [从地图慧导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
 * 热力图层
