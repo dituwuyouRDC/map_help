@@ -38,7 +38,7 @@
 * 路线规划
    * [添加线路及设置线路样式](add-line.md)
 * 数据视图
-   * [数据表格视图：添加行列、下载数据](data-tale-view.md)
+   * [在表格中管理数据](data-tale-view.md)
 * 统计分析
    * [分区统计](statistic-analysis.md)
 * 最佳实践
