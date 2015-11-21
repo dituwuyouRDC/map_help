@@ -11,7 +11,7 @@
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除。删除操作不可撤销，请确认后再进行删除。
 
 4. 修改说明信息
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fyes.png)完成即可。
+点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fyes.png)完成即可。
 
 5. 添加照片
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fcamera.jpg)，可以添加标注地点的照片信息，支持从本地上传和选择网络上的图片以及历史图片。目前一个网点支持上传20张照片。
