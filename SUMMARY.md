@@ -32,7 +32,7 @@
    * [从地图慧导入数据](import-dituhui.md)
    * [从高德云图导入数据](import-amap.md)
 * 热力图层
-   * [如何制作热力图heatmap](create-heatmap.md)
+   * [制作热力图heatmap](create-heatmap.md)
    * [修改热力图层显示效果](heatmap-setting.md)
 * 片区划分
    * [添加区域及设置区域样式](draw-region.md)
