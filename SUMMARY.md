@@ -31,6 +31,7 @@
 * [使用地图](use-map.md)
    * [分享地图](share-map.md)
    * [嵌入网站](map-embed.md)
+* [分区统计](statistic-analysis.md)
 * [统计分析](analysis.md)
    * [分区统计](statistic-analysis.md)
 * [最佳实践](solutionsd.md)
