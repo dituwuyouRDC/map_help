@@ -15,7 +15,7 @@
 
 **手机定位添加**
 1. 进入地图，点击地图窗口右上方的![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png)进入图层列表，选择正确的图层。
-2. 关闭图层列表，返回地图窗口，长按窗口右下方的定位并添加按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2addmark.png)，在出现的窗口中，可以通过拖动地图或是选择不同的地点名称来添加村注。
+2. 关闭图层列表，返回地图窗口，长按窗口右下方的定位并添加按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Faddmark.png)，在出现的窗口中，可以通过拖动地图或是选择不同的地点名称来添加村注。
 3. 点击窗口右上角的“下一步”，进入标注详细信息窗口，添加标题、照片等信息后，点完成“按钮”完成添加。
 
 
