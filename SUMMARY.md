@@ -20,7 +20,7 @@
        * [编辑标注数据](mark-data.md)
    * [制作热力图heatmap](create-heatmap.md)
    * [添加及编辑线路](add-line.md)
-   * [添加区域及设置区域样式](draw-region.md)
+   * [添加及编辑区域](draw-region.md)
 * [编辑管理地图](edit-map.md)
    * [拷贝图层](copy-layer.md)
    * [迁移图层数据](copy-data.md)
