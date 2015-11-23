@@ -13,6 +13,7 @@
 3. 在左上角的搜索结果列表框中选择正确的地点，点击信息窗上的添加按钮，完成添加。
 
 
+
 **手机定位添加**
 1. 进入地图，点击地图窗口右上方的![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png)进入图层列表，选择正确的图层。
 2. 关闭图层列表，返回地图窗口，长按窗口右下方的定位并添加按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Faddmark.png)，在出现的窗口中，可以通过拖动地图或是选择不同的地点名称来添加村注。
