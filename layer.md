@@ -10,13 +10,18 @@
 
 * 
 线路图层：用线路来表现导航线路、管道线路、关联关系等。
+
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fline-layer.jpg)
 
 * 
-区域图层：用多边形来表达业务区域的划分，如销售片区、配送区域、乡镇行政边界等。![](http://pic.dituwuyou.com/map%2Fpicture%2Fregion-layer.jpg)
+区域图层：用多边形来表达业务区域的划分，如销售片区、配送区域、乡镇行政边界等。
+
+![](http://pic.dituwuyou.com/map%2Fpicture%2Fregion-layer.jpg)
 
 * 
-热力图层：用不同的颜色来展示业务数据的空间整体分布趋势（密度），比如，用来表示人口密度、销量等。![](http://pic.dituwuyou.com/map%2Fpicture%2Fheatmap-layer.jpg)
+热力图层：用不同的颜色来展示业务数据的空间整体分布趋势（密度），比如，用来表示人口密度、销量等。
+
+![](http://pic.dituwuyou.com/map%2Fpicture%2Fheatmap-layer.jpg)
 
 **新建图层**
 
