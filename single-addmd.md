@@ -3,7 +3,7 @@
 1. 以编辑状态进入地图，点击左侧图例面板中要使用的图层，所选图层的右侧边缘显示为蓝色，表示新添加的标注将绘制在此图导上。
 2. 点击地图上方工具栏上的标注图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png) ，在地图上，光标变为"+"，将鼠标移到正确的位置，点击一下，放置标注即可。
 3. 在弹出的信息窗中，填写标题及其他说明信息。
-4. 点击信息窗口右下角的完成图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png) 以完成添加。
+4. 点击信息窗口右下角的完成图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fyes.png) 以完成添加。
 
 
 
