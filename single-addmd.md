@@ -6,10 +6,12 @@
 4. 点击信息窗口右下角的完成图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png) 以完成添加。
 
 
+
 **搜索添加**
 1. 以编辑状态进入地图，点击左侧图例面板中要使用的图层，所选图层的右侧边缘显示为蓝色，表示新添加的标注将绘制在此图导上。
-2. 点击地图上方工具栏上的搜索图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fsearch .png) ,在光标闪烁处输入需要标注的名称(如,北京大学)或是地址(如,北京市海淀区颐和园路5号)后回车。
+2. 点击地图上方工具栏上的搜索图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fsearch.png) ,在光标闪烁处输入需要标注的名称(如,北京大学)或是地址(如,北京市海淀区颐和园路5号)后回车。
 3. 在左上角的搜索结果列表框中选择正确的地点，点击信息窗上的添加按钮，完成添加。
+
 
 **手机定位添加**
 1. 进入地图，点击地图窗口右上方的![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png)进入图层列表，选择正确的图层。
