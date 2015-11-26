@@ -8,6 +8,7 @@
 [andriod 版一键下载](http://www.dituwuyou.com/app/dituwuyou.apk)
 
 扫描二维码下载：
+
 ![](http://pic.dituwuyou.com/map%2Fpicture%2FappQRCode.png)
 
 安装地图无忧 App 后，如果您已经有地图无忧的帐号，直接登录，如果没有，按照界面提示，进行注册后登录。登录后，可以看到地图列表如下:
@@ -23,6 +24,7 @@ B，修改用户头像、昵称、密码等 信息。
 C，联系在线客服。
 
 点击地图名称，以编辑状态进入地图：
+
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fmap.jpg)
 
 在手机端的地图上，您可以通过上述字母标识为入口进行以下操作：
