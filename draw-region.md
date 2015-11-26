@@ -6,7 +6,7 @@
 
 登录后进入工作台，新建地图，在地图编辑界面，点击工具栏中的“**添加区域**”按钮，在地图上**用鼠标点击，绘制你需要的片区范围，双击结束即可**    。重复绘制，便可轻松完成整个地区的片区划分、配送范围划分。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E7%BB%98%E5%88%B6%E5%8C%BA%E5%88%921.png)
+![](http://pic.dituwuyou.com/map%2Fpicture%2Faddregion1.png)
 
 **2、修改区域数据**
 
