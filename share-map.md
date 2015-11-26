@@ -10,9 +10,7 @@
 
     1、在编辑状态下进入地图，点击左侧“分享”菜单进入权限设置页面
 
-    2、设置地图为任何人都可以访问
-
-    ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fshare3.jpg)
+    2、设置地图为任何人都可以访问![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fshare3.jpg)
     3、发布地图
 
 **B. 将地图加密后，分享给他人，并告知密码**
