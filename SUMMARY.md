@@ -30,7 +30,7 @@
 * [使用地图](use-map.md)
    * [分享地图](share-map.md)
    * [嵌入网站](map-embed.md)
-   * 移动设备上使用地图
+   * [移动设备上使用地图](mobile-map.md)
 * [分区统计](statistic-analysis.md)
 * [最佳实践](solutionsd.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
