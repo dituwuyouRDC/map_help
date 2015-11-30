@@ -4,7 +4,7 @@
 
 1.添加成员：
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-06_14-24-11.jpg)
+![](http://pic.dituwuyou.com/map%2Fpicture%2Faddmembers.png)
 
 2.添加成功后，成员图标会出现在团队列表中：
 
