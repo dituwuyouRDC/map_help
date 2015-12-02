@@ -24,7 +24,7 @@
 * [编辑管理地图](edit-map.md)
    * [拷贝图层](copy-layer.md)
    * [迁移图层数据](copy-data.md)
-   * [自定义地图主题](personalized-map.md)
+   * [自定义地图主题](custom-map.md)
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
 * [使用地图](use-map.md)
