@@ -2,7 +2,7 @@
     "plugins": [
         "autocover",
         "anchor-navigation",
-        "baiduana"
+        "baidu"
     ],
     "pluginsConfig": {}
 }
