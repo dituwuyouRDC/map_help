@@ -4,4 +4,4 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fcurlayer.jpg)
 
-如果不慎将对象添加到错误的图层了，可以通过数据拷贝的方式，将数据迁移：[如何拷贝数据到指定图层](http://help.dituwuyou.com/copy-data.html)
+如果不慎将对象添加到错误的图层了，可以通过数据拷贝的方式，将数据迁移：[如何拷贝数据到指定图层](/copy-data.html)
