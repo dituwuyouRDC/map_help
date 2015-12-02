@@ -1,7 +1,8 @@
 {
     "plugins": [
         "autocover",
-        "anchor-navigation"
+        "anchor-navigation",
+        "baiduana"
     ],
     "pluginsConfig": {}
 }
