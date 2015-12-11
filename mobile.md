@@ -1,7 +1,7 @@
 # 移动设备上使用地图
-除了通过PC端的浏览器查看和使用地图，您还可以使用手机随时随地查看、修改您的地图。在手机端，您可以通过移动浏览器、andriod或是ios的app查看和编辑使用地图。
+除了通过PC端的浏览器查看和使用地图，您还可以使用手机随时随地查看、修改您的地图。在手机端，您可以通过移动浏览器、Andriod或是iOS的app查看和编辑使用地图。
 
-地图无忧 app 下载：
+地图无忧 App 下载：
 
 [iOS 版一键下载](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1021830774&mt=8)
 
