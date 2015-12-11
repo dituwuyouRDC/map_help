@@ -3,9 +3,9 @@
 
 地图无忧 app 下载：
 
-[ios 版一键下载](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1021830774&mt=8)
+[iOS 版一键下载](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1021830774&mt=8)
 
-[andriod 版一键下载](http://www.dituwuyou.com/app/dituwuyou.apk)
+[Andriod 版一键下载](http://www.dituwuyou.com/app/dituwuyou.apk)
 
 扫描二维码下载：
 
