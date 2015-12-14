@@ -16,7 +16,7 @@
 
 此处为大家介绍手机端操作地图：
 
-[创建地图](/create-map-app)
+[创建地图](/create-map-app.html)
 
 [编辑地图](/edit-map-app.html)
 
