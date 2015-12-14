@@ -1,7 +1,6 @@
 # Summary
 
 * [介绍](README.md)
-   * 手机 App 
 * [常见问题](faq.md)
    * [怎么打印我的业务网点地图](print-map.md)
    * [为什么新建的对象会跑到其他图层上面](cur-layer.md)
@@ -34,6 +33,7 @@
    * [移动设备上使用地图](mobile.md)
    * [分享地图](share-map.md)
 * [分区统计](statistic-analysis.md)
+* 手机 App
 * [最佳实践](solutionsd.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
