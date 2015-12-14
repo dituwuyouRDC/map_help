@@ -36,7 +36,7 @@
 * [手机 App](mobileApp.md)
    * [创建地图](createMap_App .md)
    * [编辑地图](editMap_App.md)
-   * 创建地图
+   * [创建地图](create-map-app.md)
 * [最佳实践](solutionsd.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
