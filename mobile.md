@@ -12,5 +12,5 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2FappQRCode.png)
 
-详细的操作说明，见
+详细的操作说明，见 [手机App](/mobile-app.html)
 
