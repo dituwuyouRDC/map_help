@@ -34,7 +34,6 @@
    * [分享地图](share-map.md)
 * [分区统计](statistic-analysis.md)
 * [手机 App](mobileApp.md)
-   * [创建地图](createMap_App .md)
    * [编辑地图](editMap_App.md)
    * [创建地图](create-map-app.md)
    * [编辑地图](edit-map-app.md)
