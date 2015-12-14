@@ -35,7 +35,6 @@
 * [分区统计](statistic-analysis.md)
 * [手机 App](mobileApp.md)
    * [编辑地图](editMap_App.md)
-   * [创建地图](create-map-app.md)
    * [编辑地图](edit-map-app.md)
 * [最佳实践](solutionsd.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
