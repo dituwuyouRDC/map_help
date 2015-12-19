@@ -37,6 +37,7 @@
    * [什么是快速体验](m-getting-started.md)
    * [如何成为地图无忧的用户](m-signup.md)
    * [如何创建地图](m-newmap.md)
+   * 如何创建、管理图层
 * [最佳实践](solutionsd.md)
    * [5分钟搞定基于位置的订单与人员匹配分析](geobi-heatmap.md)
    * [基于地图的户外广告管理系统](outdoors-ad.md)
