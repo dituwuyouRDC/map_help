@@ -4,7 +4,7 @@
 
 1、[什么是快速体验](/m-getting-started)
 
-2、[如何成为地图无忧的用户](/m-regist)
+2、[如何成为地图无忧的用户](/m-signup)
 
 3、[如何创建地图](m-newmap)
 
