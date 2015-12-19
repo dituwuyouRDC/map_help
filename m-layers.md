@@ -6,7 +6,7 @@
 
 * 图层管理对话框上方的已选中图层，表示该图层为当前编辑图层，所有新增的标注都会添加在该图层上。
 
-* 图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fvisible.jpg)
+* 图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)
 
 
 * 点图层名称右侧的“ i ”，打开图层信息窗口，可修改图层名称，添加、删除属性字段等。
