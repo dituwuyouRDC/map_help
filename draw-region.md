@@ -27,7 +27,7 @@ b. 编辑区域形状
 
 c. 编辑区域说明信息
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点[](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fyes.png)完成即可。
+点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点[](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fyes.png)完成即可。
 
 d. 删除区域
 
