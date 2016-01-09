@@ -12,9 +12,9 @@
 
 3、怎么进行关键词绑定
 
-1）	点击业务区域地图中的“开始作业”进入分单页面
+1）	点击业务区域地图中的“开始作业”进入分单页面。
 
-2）	点击左侧菜单 http://pic.dituwuyou.com/map%2Fpicture%2Fkeyword-binding.png进入操作页面
+2）	点击左侧菜单![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeyword-binding.png)进入操作页面。
 
 3）	搜索框中输入关键词（地址名称），点击搜索或是回车：
 
@@ -22,14 +22,14 @@ A.	如果能找到对应地址，地图切换最大比例尺并居中显示搜�
 
 B.	对于错误或是新增的地址，搜索不到时，就需要经验人员参与一次确认，或是建议使用百度、高德等地图进行查找，找到参考地物，然后再进行绑定。
 
-4）	点击地图工具栏上按钮http://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png，在相应地点点击，弹出的信息框中输入需要绑定的地址名称，点击信息窗口右下角的完成图标 http://pic.dituwuyou.com/map%2Fpicture%2Fyes.png  以完成关键词和业务区域的绑定。
+4）	点击地图工具栏上按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png)，在相应地点点击，弹出的信息框中输入需要绑定的地址名称，点击信息窗口右下角的完成图标 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fyes.png)  以完成关键词和业务区域的绑定。
 
-http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-3.png
+![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-3.png)
 
-5）	一个地点，可以绑定多个关键词。
+5）	一个地点，可以绑定多个关键词：
 
-http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-2.png
+![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-2.png)
 
-6）	如果标错了或是位置不准确，在地图上选中相应标注，在弹出的信息框中点击图标http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg，开启标注的编辑模式,在地图中按左键拖动到新的位置即可。
+6）	如果标错了或是位置不准确，在地图上选中相应标注，在弹出的信息框中点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，开启标注的编辑模式,在地图中按左键拖动到新的位置即可。
 
 
