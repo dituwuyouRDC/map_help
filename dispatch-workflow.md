@@ -8,7 +8,7 @@
 
 **2、单条订单分拣**
 
-1) 点击![](http://pic.dituwuyou-gitbooks.com/map%2Fpicture%2Fdispatch%2Fsingle-dispatch.png)进入单条分拣页面。
+1) 点击![](http://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fsingle-dispatch.png)进入单条分拣页面。
 
 2) 输入地址，如“知春路1号”，回车即可。
 
