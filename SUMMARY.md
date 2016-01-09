@@ -44,7 +44,7 @@
    * [如何邀请协作成员](m-addmembers.md)
    * [如何查看地图信息](m-mapinfo.md)
 * [鸿雁分单](dispatch.md)
-   * [订单分拣流程](dispatch-workflow.md)
+   * [订单分拣](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
    * [成员管理](dispatch-members .md)
 * [最佳实践](solutionsd.md)
