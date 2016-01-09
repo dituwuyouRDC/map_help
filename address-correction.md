@@ -26,7 +26,7 @@ B.	对于错误或是新增的地址，搜索不到时，就需要经验人员�
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-3.png)
 
-5）	一个地点，可以绑定多个关键词：
+5）	一个地点，可以绑定多个关键词。
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-2.png)
 
