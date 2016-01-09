@@ -25,7 +25,7 @@ b. 编辑区域形状
 
 点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，区域的节点信息显示出来，开启编辑模式,选中需要编辑的节点拖动到新的位置,即完成一个节点的标注，如此重复，就可以完成对区域形状的调整。调整完成后，再次选中区域对象，点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，结束编辑操作。
 
-c. 删除节点
+c. 删除区域节点
 进入节点编辑模式，双击节点即可。删除时需要谨慎，一经删除，不可恢复。
 
 d. 编辑区域说明信息
