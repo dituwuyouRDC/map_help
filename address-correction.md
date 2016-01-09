@@ -14,7 +14,7 @@
 
 1）	点击业务区域地图中的“开始作业”进入分单页面。
 
-2）	点击左侧菜单![](http://pic.dituwuyou.com/map%2Fpicture%2Fkeyword-binding.png)进入操作页面。
+2）	点击左侧菜单![](http://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fkeyword-binding.png)进入操作页面。
 
 3）	搜索框中输入关键词（地址名称），点击搜索或是回车：
 
