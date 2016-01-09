@@ -9,6 +9,7 @@
    * [怎么挪动标注](move-mark.md)
    * [怎么在地图上显示文字](display-label.md)
    * [怎么在属性中添加超链接](add-link.md)
+   * 地图发布后是否所有人都能看到
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
