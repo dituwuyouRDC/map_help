@@ -5,12 +5,15 @@
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmnewlayers.jpg)
 
 
-* 图层管理对话框上方的已选中图层，表示该图层为当前编辑图层，所有新增的标注都会添加在该图层上。
+* **选择操作图层**：图层管理对话框上方的已选中图层，表示该图层为当前编辑图层，所有新增的标注都会添加在该图层上。
 
-* 图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)
+* **隐藏、显示图层：**图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)
 
 
-* 点图层名称右侧的“ i ”，打开图层信息窗口，可修改图层名称，添加、删除属性字段等。
+* **修改图层名称：**点图层名称右侧的“ i”，打开图层信息窗口，点击右上角的“编辑”按钮，在图层名称中填入新的名称，点击“完成”即可。
 
+* **添加属性字段：**点图层名称右侧的“ i”，打开图层信息窗口，点击右上角的“编辑”按钮，点击“属性字段”后面的加号，输入字段名称，点“创建”添加新的字段。
+
+* **删除属性字段：**点图层名称右侧的“ i”，打开图层信息窗口，点击右上角的“编辑”按钮，点击需要删除的字段后面的“×”即可删除字段，删除字段后，该字段中的内容也会被删除，请谨慎操作。
 
 
