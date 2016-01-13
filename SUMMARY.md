@@ -29,7 +29,6 @@
    * [自定义地图主题](custom-map.md)
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
-   * [团队设置](teamwork .md)
    * [添加地图协作成员](map-member-invite.md)
    * [团队设置](team-setting.md)
 * [使用地图](use-map.md)
