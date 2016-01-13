@@ -31,7 +31,7 @@
 * [共用地图](map-permissions.md)
    * [团队设置](teamwork .md)
    * [添加地图协作成员](map-member-invite.md)
-   * 团队设置
+   * [团队设置](team-setting.md)
 * [使用地图](use-map.md)
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
