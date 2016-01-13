@@ -30,6 +30,7 @@
    * [在表格中管理数据](data-tale-view.md)
 * [共用地图](map-permissions.md)
    * [团队设置](teamwork .md)
+   * 添加地图协作成员
 * [使用地图](use-map.md)
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
