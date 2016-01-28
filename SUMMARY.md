@@ -32,6 +32,7 @@
    * [管理团队](team-setting.md)
    * [管理地图协作成员](map-member-invite.md)
    * [管理图层协作成员](layer-member-invite.md)
+   * 管理要素成员
 * [使用地图](use-map.md)
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
