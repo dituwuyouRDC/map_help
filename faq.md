@@ -6,6 +6,6 @@
 5. [怎么挪动标注](/move-mark.html)
 6. [怎么在地图上显示文字](/display-label.html)
 7. [怎么在属性中添加超链接](/add-link.html)
-8. [地图发布后是否所有人都能看到](/map-published.html)
+8. [地图发布后是否所有人都能看到](/map-publish.html)
 9. [如何让自动定位更精准](/accurate-positioning.html)
 
