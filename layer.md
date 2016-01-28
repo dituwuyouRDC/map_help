@@ -19,11 +19,11 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fheatmap-layer.jpg)
 
-**新建图层**
+**1、新建图层**
 
 编辑状态下进入地图，点左上方的添加按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Faddlayer.png)，选择要新建的图层类型，点击“新建图层”按钮即可。
 
-**修改图层**
+**2、修改图层**
 
 这里，我们介绍一下图层列表，后续的所有操作都在这个工作区中完成：
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Flayerlist.png)
