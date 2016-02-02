@@ -2,7 +2,7 @@
 
 **1、图层的隐藏与显示**
 
-点击![](http://pic.dituwuyou.com/map%2Fpicture%2Fvisible.jpg)，切换隐藏与显示状态。
+点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)，切换隐藏与显示状态。
 
 **2、图层的样式设置**
 
