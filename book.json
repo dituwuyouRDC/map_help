@@ -4,14 +4,6 @@
     ],["-sharing"],
     "pluginsConfig": {
         
-        "sharing": {
-        "weibo": false,
-        "facebook": false,
-        "twitter": false,
-        "google": false,
-        "instapaper": false,
-        "vk": false,
-        
     }
     }
 }
