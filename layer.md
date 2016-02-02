@@ -11,7 +11,7 @@
 
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fmark-layer.png)
 
-点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png)->渲染方式，可以选择标注图层的显示方式，新用户可以切换预览，选择适合自己的渲染方式。
+点击更多设置![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png)按钮->渲染方式，可以选择标注图层的显示方式，新用户可以切换预览，选择适合自己的渲染方式。
 
 **2、线路图层：**用线路来表现导航线路、管道线路、关联关系等。
 
