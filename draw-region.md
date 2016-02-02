@@ -19,7 +19,7 @@
 
 a. 修改区域样式
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fregionstyle.png)，在弹出的区域样式对话框中，可以修改区域的填充色、边框颜色、填充透明度等。
+点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Frecordstyle.png)，在弹出的区域样式对话框中，可以修改区域的填充色、边框颜色、填充透明度等。
 
 b. 编辑区域形状
 
