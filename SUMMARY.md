@@ -15,7 +15,7 @@
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
        * [添加图层](add-layer.md)
-       * 图层设置
+       * [图层设置](layer-setting.md)
    * [添加标注](addmarker.md)
        * [从 excel 批量导入](excel-import.md)
        * [直接绘制及搜索添加](single-addmd.md)
