@@ -2,7 +2,6 @@
     "plugins": [
         "autocover",
         "-sharing"
-        
     ],
      "pluginsConfig": {
         "sharing": {
