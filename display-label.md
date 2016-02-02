@@ -2,8 +2,10 @@
 
 不仅要在地图上显示客户的位置，还要显示客户的名称？很简单，来看看小图怎么做吧：）
 
-1. 标注、线路、区域都可以在地图上显示指定的文字信息，图层设置->标签设置->选择相应字段即可：
-![](http://pic.dituwuyou.com/map%2Fpicture%2FlabeSetting1.jpg)
+1、点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口。
 
-2. 显示效果如下：
+2、点击标签设置菜单，选择需要显示的字段，点“应用”就可以在地图上看到内容。目前只支持单字段显示。
+ 
+
+3、 显示效果如下：
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting2.jpg)
