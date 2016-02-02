@@ -1,20 +1,10 @@
 #迁移图层数据
 
-把图层1中的部分数据挪用到图层2中，重新筛选出所需的数据上传会很麻烦，来看看怎么一步到位吧：
+把一个图层中的全部或部分数据移动到新建图层或是已有图层，原图层将不作保留：
 
-1、点击源数据所在图层中的“**查看数据视图**”按钮。
+1、点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdatalist.png)打开数据视图,在记录前勾选需要移动的数据信息。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%8B%B7%E8%B4%9D%E6%95%B0%E6%8D%AE%E5%88%B0%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%B1%82%E4%B8%AD1.png)
+2、点击“移动数据”，选择目标图层即可。注意，目标图层的字段结构和当前图层必须一致，否则操作失败。
+![](http://pic.dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map%2Fpicture%2Frecord-move.png)
 
-2、在记录前勾选需要迁移的数据信息。
-
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%8B%B7%E8%B4%9D%E6%95%B0%E6%8D%AE%E5%88%B0%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%B1%82%E4%B8%AD2.png)
-
-3、点击“**操作**”按钮，选择**“拷贝数据”**。
-
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%8B%B7%E8%B4%9D%E6%95%B0%E6%8D%AE%E5%88%B0%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%B1%82%E4%B8%AD3.png)
-
-4、选择目标图层，可以是新的图层，也可以是已有图层。如果是已有图层，则要求其字段结构和源图层保持一致。
-
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%8B%B7%E8%B4%9D%E6%95%B0%E6%8D%AE%E5%88%B0%E6%96%B0%E5%BB%BA%E5%9B%BE%E5%B1%82%E4%B8%AD4.png)
 
