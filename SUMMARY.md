@@ -11,7 +11,7 @@
    * [怎么在属性中添加超链接](add-link.md)
    * [地图发布后是否所有人都能看到](map-publish.md)
    * [如何让自动定位更精准](accurate-positioning.md)
-   * 如何按不同风格分类显示标注
+   * [如何按不同风格分类显示标注](group-mark.md)
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
