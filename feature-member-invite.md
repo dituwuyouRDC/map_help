@@ -8,7 +8,7 @@
 
 3、 移除记录成员。以地图管理员、地图成员或是图层成员的身份编辑管理的模式进入地图，点击![](http://pic.dituwuyou.com/map%2Fpicture%2Fdatalist.png)进入图层的数据视图，勾选标注，点右上角的“清除分派结果”按钮，即可开放标注的权限。![](http://pic.dituwuyou.com/map%2Fpicture%2Ffreetask.png)
 
-4、 批量分派的时候，可以通过属性筛选快速过滤出所需标注，详见下图：
+4、 批量分派的时候，可以通过属性筛选快速过滤出所需记录，详见下图：
 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fselect-feature.png)
 
 
