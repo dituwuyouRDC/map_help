@@ -10,14 +10,14 @@
 - 热力图渲染，将标注按照相应的属性设置展示为连续面，主要用来显示空间分布趋势，如人口密度、产品销量等。
 - 点聚合渲染，标注密集的图层，使用点聚合的显示方式，可以将一定范围内相邻的标注聚合成簇状显示，并在聚合的标注上显示其聚合的个数。聚合后地图的展现效果更清晰，显示速度也会更为流畅。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fmark-layer-all.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fmark-layer-all.png)
 
-以编辑管理模式进入地图，点击图层名称后的更多设置按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png)->渲染方式，可以选择标注图层的显示方式，新用户可以切换预览，选择适合自己的渲染方式。
+以编辑管理模式进入地图，点击图层名称后的更多设置按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png)->渲染方式，可以选择标注图层的显示方式，新用户可以切换预览，选择适合自己的渲染方式。
 
 **2、线路图层：**用线路来表现导航线路、管道线路、关联关系等。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fline-layer.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fline-layer.png)
 
 **3、区域图层：**用多边形来表达业务区域的划分，如销售片区、配送区域、乡镇行政边界等。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fregion-layer.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-layer.png)
