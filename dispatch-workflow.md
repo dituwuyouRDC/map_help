@@ -8,7 +8,7 @@
 
 **2、单条订单分拣**
 
-1) 点击![](http://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fsingle-dispatch.png)进入单条分拣页面。
+1) 点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fsingle-dispatch.png)进入单条分拣页面。
 
 2) 输入地址，如“知春路1号”，回车即可。
 
@@ -16,7 +16,7 @@
 
 **3、批量分拣**
 
-1) 点击![](http://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fdispatch.png)进入批量分拣页面。
+1) 点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fdispatch%2Fdispatch.png)进入批量分拣页面。
 
 2) 点击“上传文件”，选择订单地址文件（excel文件，第一列为订单地址且只有一列数据）。
 
