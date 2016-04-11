@@ -2,6 +2,6 @@
 
 如果新添加的对象类型（点、线、面）和正在编辑的图层类型不匹配的话，地图无忧会自动新建对应类型的图层，当前编辑的图层在图层列表上有标识：
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fcurlayer.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fcurlayer.jpg)
 
 如果不慎将对象添加到错误的图层了，可以通过数据拷贝的方式，将数据迁移：[如何拷贝数据到指定图层](/copy-data.html)
