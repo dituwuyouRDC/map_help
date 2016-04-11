@@ -4,11 +4,11 @@
 
 先来看一个示例吧，“某市户外阅报栏分布地图”[点击查看>>](http://www.dituwuyou.com/map/viewer?mid=LaUH2cbC2RRhfFGj4PYhZQ)。如图所示，用不同颜色的标注显示广告牌的不同状态，不同行政区的广告可显示在不同的图层上，还可以在手机端上传和显示照片等。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E6%88%B7%E5%A4%96%E5%B9%BF%E5%91%8A1.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F%E6%88%B7%E5%A4%96%E5%B9%BF%E5%91%8A1.png)
 
 搞定这样一个户外广告管理系统，只需要你仅仅十分钟的时间，把你们包含户外广告位置信息的**Excel文件，一键上传**，再进行一些图标设置，就搞定啦。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%B9%BF%E5%91%8A%E2%80%94%E7%A7%BB%E5%8A%A8.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F%E5%B9%BF%E5%91%8A%E2%80%94%E7%A7%BB%E5%8A%A8.jpg)
 
 地图无忧还提供了手机端，让你的领导和同事可以实时在手机上查看最新信息，比如目前处于什么状态，拍照显示广告牌的内容等。如果外出的话，可以方便地在多个广告位中进行路线导航。
 
