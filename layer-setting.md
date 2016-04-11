@@ -2,16 +2,16 @@
 
 **1、图层的隐藏与显示**
 
-点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)，切换隐藏与显示状态。
+点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)，切换隐藏与显示状态。
 
 **2、图层的样式设置**
 
-点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口，在该窗口中，可以完成以下操作：
+点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口，在该窗口中，可以完成以下操作：
 - 样式设置。对图层中所有记录的样式统一管理，如标注的图标、面区域的填充颜色及透明度等。普通标注图层，除了统一样式，还可以完成标注的分类显示设置、排序样式设置。
 - 标签设置。在地图上显示记录的指定字段内容，如店铺的名称、区域负责人等，选择需要显示的字段，点“应用”就可以在地图上看到内容。目前只支持单字段显示。
 - 信息窗设置。信息窗中显示字段内容的设置，根据不同的读者，在不删除字段的情况下，只显示指定的字段内容。标题是必填字段，不能设置为隐藏显示。
 
-**点击 ![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png) 打开图层设置窗口，完成以下操作：**
+**点击 ![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png) 打开图层设置窗口，完成以下操作：**
 
 **3、标题设置**
 
