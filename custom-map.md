@@ -3,8 +3,8 @@
 
 1.点击地图右上方的默认底图，打开底图列表框，选择自己中意的底图，修改效果实时显示，所见即所得。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-06_19-03-33.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-06_19-03-33.jpg)
 
 2.在网页或手机端展示地图的时候，如果需要关掉数据列表或是搜索框，可以在主题菜单中进行设置。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-07_13-28-24.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-07_13-28-24.jpg)
