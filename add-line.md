@@ -4,7 +4,7 @@
 
 **1、添加线路**
 
-1）以编辑管理模式进入地图，选择或是新建线路图层，如下图所示点击地图上方的“**添加线路**”按钮![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Faddline.png)
+1）以编辑管理模式进入地图，选择或是新建线路图层，如下图所示点击地图上方的“**添加线路**”按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Faddline.png)
 
 2）鼠标指针会变成“**+**”的样式，点击线路的开始处按照自己的需求向另一个目的地移动鼠标。
 
@@ -16,11 +16,11 @@
 
 **a. 修改线路样式**
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Frecordstyle.png)，在弹出的线路样式对话框中，可以修改线路的颜色、宽度等。
+点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Frecordstyle.png)，在弹出的线路样式对话框中，可以修改线路的颜色、宽度等。
 
 **b. 编辑线路形状**
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，线路的节点信息显示出来，进入节点编辑模式,选中需要编辑的节点拖动到新的位置,即完成一个节点的标注，如此重复，就可以完成对线路形状的调整。调整完成后，再次选中线路对象，点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，结束编辑操作。
+点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，线路的节点信息显示出来，进入节点编辑模式,选中需要编辑的节点拖动到新的位置,即完成一个节点的标注，如此重复，就可以完成对线路形状的调整。调整完成后，再次选中线路对象，点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Feditregion.png)，结束编辑操作。
 
 
 **c. 删除线路节点**
@@ -29,8 +29,8 @@
 
 **d. 编辑线路说明信息**
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](http://pic.dituwuyou.com/map-picture-icon-yes.png)完成即可。
+点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](https://pic.dituwuyou.com/map-picture-icon-yes.png)完成即可。
 
 **e. 删除线路**
 
-点击图标![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除整条线路。删除操作不可撤销，请确认后再进行删除。
+点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除整条线路。删除操作不可撤销，请确认后再进行删除。
