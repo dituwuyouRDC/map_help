@@ -2,9 +2,9 @@
 
 地图无忧中不仅可以对单个点的图标样式进行修改，还支持对某一图层所有点的图标样式进行批量修改。   
 
-点击![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)->样式设置，可按三种模式来批量修改图标样式:
+点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)->样式设置，可按三种模式来批量修改图标样式:
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fstylesetting.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fstylesetting.png)
 
 （1）统一样式：批量修改图层中标注的颜色、形状，所有标注的显示样式一样。支持自定义图标。
 
