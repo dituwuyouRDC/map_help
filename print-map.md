@@ -1,14 +1,14 @@
 # 怎么打印我的业务网点地图
 
 我们提供您的业务地图高清图片的生成服务，每次生成高清地图，600元起价。并根据打印的范围、详细程度、标注数量来计算实际价格，范围越大、内容越详细、标注越多，价格则越高。
-以下样图生成价格为1000元：[点此下载原图](http://pic.dituwuyou.com/map%2Fpicture%2F%E5%8C%97%E4%BA%AC%E5%85%AD%E7%8E%AF%E5%8C%BA%E5%9F%9F%E6%9F%90%E4%B8%9A%E5%8A%A1%E7%BD%91%E7%82%B9%E5%88%86%E5%B8%83.png) (约10M，建议在wifi环境下下载)  
+以下样图生成价格为1000元：[点此下载原图](https://pic.dituwuyou.com/map%2Fpicture%2F%E5%8C%97%E4%BA%AC%E5%85%AD%E7%8E%AF%E5%8C%BA%E5%9F%9F%E6%9F%90%E4%B8%9A%E5%8A%A1%E7%BD%91%E7%82%B9%E5%88%86%E5%B8%83.png) (约10M，建议在wifi环境下下载)  
 ![](https://pic.dituwuyou.com/map%2Fpicture%2FoutputMap.jpg)
 
 1. 打印的范围，[添加一个区域](/draw-region.html)用以标明输出的范围。
 
 2. 地图的详细程度，用地图左下角的比例尺数字告诉小图，如下图所示：
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F2015-10-24_10-02-26.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F2015-10-24_10-02-26.jpg)
 
 有的小伙伴会问，我的地图，打印出来有多大呢？使用地图无忧提供的高清图片，到打印店可以根据实际需求定制纸质地图的大小。
 
