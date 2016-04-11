@@ -4,5 +4,5 @@
 2. 在**地图浏览页面**，右上角有几个按钮，分别是**转发分享、嵌入代码、[地图打印](/print-map.html)**, 选择嵌入代码拷贝一段代码，嵌入自己的网站或是微信。
 
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fembed.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fembed.png)
 
