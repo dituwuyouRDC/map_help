@@ -3,7 +3,7 @@
 
 登录地图无忧，进入工作台，工作台中以列表的形式呈现了当前登录用户**创建**或是**有权**编辑、查看的地图（新用户注册后，默认提供三幅示例地图）。您可以在工作台中新建、删除及打开地图，查看地图的创建者、更新时间、图层记录数等基本信息，还可以通过右侧的企鹅联系我们的在线客服：
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fdashboard.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fdashboard.png)
 
 **1、打开地图**
 
@@ -27,9 +27,9 @@
 **2、新建地图**
 
 点击工作台右上方 "新建地图" 按钮一键创建地图。 新创建的地图，默认名称为“未命名“，建议根据实际用途和读者对象修改，便于后续查阅。只有团队管理员可以创建地图。
-![](http://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-02_15-40-15.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-02_15-40-15.jpg)
 
 
 **3、删除地图**
 
-点击地图名称右侧的 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fdelete.png) 可以打开“删除地图”菜单，点击即可删除。地图删除后，不可恢复，请小心操作。只有团队管理员可以删除地图。
+点击地图名称右侧的 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fdelete.png) 可以打开“删除地图”菜单，点击即可删除。地图删除后，不可恢复，请小心操作。只有团队管理员可以删除地图。
