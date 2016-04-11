@@ -3,5 +3,5 @@
 
 2、Andriod 端有离线底图功能，iOS 暂不支持。
 
-3、进入地图列表，点击设置按钮 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmsettings.png)，打开“地图离线包”下载，切换到城市列表中，选择需要的城市即可。
+3、进入地图列表，点击设置按钮 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmsettings.png)，打开“地图离线包”下载，切换到城市列表中，选择需要的城市即可。
 
