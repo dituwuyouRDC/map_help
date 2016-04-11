@@ -5,21 +5,21 @@
 
 1、 新建图层->批量添加数据->选择相应的excel文件->设置地址字段
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fimport-data2.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fimport-data2.jpg)
 
 2、 地址要求是正确详细的，如果解析时地址找不到或是不唯一，定位出来的点会显示为黑色。字段推荐使用详细地址，如果使用名称的时候，在“手动”列选择详细的省份和城市会大幅提升定位准确率。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Faddress2.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Faddress2.jpg)
 
 二、 使用 Excel 格式的经纬度数据生成地图
 
 1、 地址模板如下，经度和纬度为必填数据项
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Flatlag.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Flatlag.jpg)
 
 2、 新建图层->批量添加数据->选择相应的excel文件->设置经纬度及坐标系，完成即可，对话框中，红色*标识字段为必填字段
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Flatlag2.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Flatlag2.jpg)
 
 
 **注意：一个 Excel 中只能有一张工作表。**
