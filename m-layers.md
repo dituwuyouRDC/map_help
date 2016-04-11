@@ -1,13 +1,13 @@
 # 如何创建、管理图层
 
-进入地图，点击右上方 ![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png),图层管理窗口中，点击窗口下方的“创建图层”按钮，输入图层名称，点击“创建”将新建一个**标注图层**。如果您需要创建 或编辑线路图层、区域图层，请使用网页端进行操作。
+进入地图，点击右上方 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png),图层管理窗口中，点击窗口下方的“创建图层”按钮，输入图层名称，点击“创建”将新建一个**标注图层**。如果您需要创建 或编辑线路图层、区域图层，请使用网页端进行操作。
 
-![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmnewlayers.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmnewlayers.jpg)
 
 
 * **选择操作图层**：图层管理对话框上方的已选中图层，表示该图层为当前编辑图层，所有新增的标注都会添加在该图层上。
 
-* **隐藏、显示图层：**图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](http://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)
+* **隐藏、显示图层：**图层名称右侧的眼睛按钮，控制图层的隐藏与显示，隐藏时图标为![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fbtn_yincang_press.png)，可见时图标为![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)
 
 
 * **修改图层名称：**点图层名称右侧的“ i”，打开图层信息窗口，点击右上角的“编辑”按钮，在图层名称中填入新的名称，点击“完成”即可。
