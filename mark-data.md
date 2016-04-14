@@ -7,7 +7,7 @@
 
 2、 修改标注样式
 
-点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fqipao.jpg)，在弹出的样式对话框中，选择自己喜欢的颜色、图标、大小即可。如果您有自己定义的图标，地图无忧也支持上传，用来个性化设置您的地图。自定义图标只支持 png、jpg、jpeg、gif 格式，最大 5M，最大显示 100x100 像素。
+点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Frecordstyle.png)，在弹出的样式对话框中，选择自己喜欢的颜色、图标、大小即可。如果您有自己定义的图标，地图无忧也支持上传，用来个性化设置您的地图。自定义图标只支持 png、jpg、jpeg、gif 格式，最大 5M，最大显示 100x100 像素。
 
 3、 删除标注
 
