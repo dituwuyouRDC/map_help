@@ -42,7 +42,7 @@
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
    * [分享地图](share-map.md)
-* 智能线路规划
+* [智能线路规划](path.md)
 * [统计分析](statistic-analysis.md)
 * [手机 App](mobile-app.md)
    * [什么是快速体验](m-getting-started.md)
