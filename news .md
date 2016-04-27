@@ -11,6 +11,7 @@
 
 2、添加动态。
 - 手机端添加：打开标注信息窗，切换到动态窗口，点“+”新增一条动态，在窗口顶部，选择动态模板，输入各字段内容和照片，发布即可。
+
  ![image](https://pic.dituwuyou.com/map%2Fpicture%2Fnews2.PNG)
 - 网页端添加:编辑管理模式进入地图，选择要添加的标注，点信息窗中的![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fnewsicon.png),新增动态 ，按模板输入动态的内容发布即可。如果需要在动态中上传照片，点![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fcamera.jpg) 即可。
 
