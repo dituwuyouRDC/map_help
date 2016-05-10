@@ -5,7 +5,7 @@
 1、点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口。
 
 2、点击标签设置菜单，选择需要显示的字段，点“应用”就可以在地图上看到内容。目前只支持单字段显示。
- 
+ ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting3.png)
 
 3、 显示效果如下：
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting2.jpg)
