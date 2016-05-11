@@ -48,7 +48,6 @@
 * [智能线路规划](path.md)
 * 缓冲区分析
 * [统计分析](statistic-analysis.md)
-   * 缓冲区分析
 * [手机 App](mobile-app.md)
    * [什么是快速体验](m-getting-started.md)
    * [如何成为地图无忧的用户](m-signup.md)
