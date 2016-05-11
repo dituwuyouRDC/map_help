@@ -8,4 +8,5 @@
 7. [怎么在属性中添加超链接](/add-link.html)
 8. [地图发布后是否所有人都能看到](/map-publish.html)
 9. [如何让自动定位更精准](/accurate-positioning.html)
+10. 如何快速添加行政区
 
