@@ -45,6 +45,7 @@
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
    * [分享地图](share-map.md)
+* [分析功能](Analyst.md)
 * [智能线路规划](path.md)
    * [分析功能](Analyst.md)
 * [缓冲区分析](buffer.md)
