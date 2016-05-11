@@ -46,6 +46,7 @@
    * [移动设备上使用地图](mobile.md)
    * [分享地图](share-map.md)
 * [智能线路规划](path.md)
+   * 分析功能
 * [缓冲区分析](buffer.md)
 * [统计分析](statistic-analysis.md)
 * [手机 App](mobile-app.md)
