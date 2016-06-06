@@ -1,6 +1,6 @@
 # 统计分析
 
-使用统计分析功能，需要以编辑状态进入地图，点击菜单 “插件”，打开 “数据分析” 开关：
+使用统计分析功能，需要以编辑状态进入地图，点击 “工具箱”，打开 “数据分析” 开关：
 
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fstatistic-analysis.png)
 
