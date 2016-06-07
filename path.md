@@ -6,7 +6,7 @@
 
 1、 编辑管理模式进入地图，打开路径规划开关。
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2Fpath.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fpath-on.png)
 
 2、 点击左侧“路径”菜单，输入起始点和途经点，点“规划路线”，将得到指定起始点的怀况下最优出行路线及顺序。
 - 添加点：点击输入框后的“+”，将在当前点后增加一个途经点。目前版本中，暂不支持批量选择，仅支持单个添加。
