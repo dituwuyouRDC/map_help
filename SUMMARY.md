@@ -59,6 +59,7 @@
    * [如何使用离线地图](m-offline.md)
    * [如何邀请协作成员](m-addmembers.md)
    * [如何查看地图信息](m-mapinfo.md)
+   * 如何添加动态
 * [鸿雁分单](dispatch.md)
    * [订单分拣](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
