@@ -56,7 +56,6 @@
    * [如何创建、管理图层](m-layers.md)
    * [如何添加标注](m-addmark.md)
    * [如何编辑标注](m-editmark.md)
-       * 如何添加动态
    * [如何使用离线地图](m-offline.md)
    * [如何邀请协作成员](m-addmembers.md)
    * [如何查看地图信息](m-mapinfo.md)
