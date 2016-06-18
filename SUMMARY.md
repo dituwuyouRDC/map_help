@@ -61,7 +61,7 @@
    * [如何查看地图信息](m-mapinfo.md)
    * [如何添加动态](m-add-news.md)
    * [如何设置标注图层的渲染方式](m-marklayer-stylesetting.md)
-   * 如何添加线路
+   * [如何添加线路](m-addline.md)
 * [鸿雁分单](dispatch.md)
    * [订单分拣](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
