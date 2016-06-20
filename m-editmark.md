@@ -2,11 +2,11 @@
 
 **1、显示及编辑标注属性信息**
 
-地图窗口中点击选择标注，被选中的标注上方显示标题信息，地图窗口底部显示该标注的照片信息、标题信息及导航按钮，点击信息窗，可以看到该标注的详细信息，点击编辑按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmeditmark.png)，可以编辑这些信息。
+选择标注->点击信息窗->点击按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmeditmark.png)，打开编辑窗口进行操作。
 
 **2、 移动标注位置**
 
-选中标注->向上拖动底部的信息窗->点击编辑按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmeditmark.png)->移动地图，点击窗口右上方的“完成”即可保存新的位置信息。
+选中标注->点击信息窗->点击按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmeditmark.png)->移动地图，点击窗口右上方的“完成”即可保存新的位置信息。
 
 **3、添加、删除字段**
 
