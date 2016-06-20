@@ -27,5 +27,5 @@
 
 **6、导航到当前标注**
 
-选中标注，打开信息窗，点击按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmnavi.png)，可以完成从当前位置到所选标注的导航，导航可以使用系统自带导航，也可以使用百度导航。
+选中标注，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fmnavi.png)，可以完成从当前位置到所选标注的导航，导航可以使用系统自带导航，也可以使用百度导航。
 
