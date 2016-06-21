@@ -63,7 +63,6 @@
    * [如何设置标注图层的渲染方式](m-marklayer-stylesetting.md)
    * [如何添加线路](m-addline.md)
    * [如何添加照片](m-add-picture.md)
-   * [如何设置对象样式](m-geometry-style-setting.md)
 * [鸿雁分单](dispatch.md)
    * [订单分拣](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
