@@ -20,3 +20,13 @@
 
 9、[如何查看地图信息](/m-mapinfo.html)
 
+10、[如何添加动态](/m-add-news.html )
+
+11、[如何设置标注图层的渲染方式](/m-marklayer-stylesetting.html )
+
+12、[如何添加线路](/m-addline.html)
+
+13、[如何添加照片](/m-add-picture.html)
+
+14、[如何修改单个标注的样式](/m-marker-style-setting.html)
+
