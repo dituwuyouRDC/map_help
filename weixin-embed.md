@@ -3,5 +3,5 @@
 
 1、将地图设置为任何人都可以访问，并通过“复制”获得地图的访问链接。
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fshare3.png)
-2、在微信公众平台上打开自定义菜单，然后把地图链接复制到跳转网页框内，点击保存并发布就OK了。   
+2、在微信公众平台上打开自定义菜单，把地图链接粘贴到跳转网页框“页面地址”内，点击保存并发布就OK了。   
 ![](https://pic.dituwuyou.com/map/picture/weixin.jpg )
