@@ -5,7 +5,7 @@
 
 [iOS 版一键下载](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1021830774&mt=8)
 
-[Andriod 版一键下载](http://www.dituwuyou.com/app/dituwuyou.apk)
+[Andriod 版一键下载](http://a.app.qq.com/o/simple.jsp?pkgname=com.dituwuyou)
 
 扫描二维码下载：
 
