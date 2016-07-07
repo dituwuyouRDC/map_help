@@ -22,7 +22,6 @@
    * [添加标注](addmarker.md)
        * [从 excel 批量导入](excel-import.md)
        * [直接绘制及搜索添加](single-addmd.md)
-       * [从地图慧导入数据](import-dituhui.md)
        * [批量设置标注样式](batch-modify-maker.md)
        * [编辑标注数据](mark-data.md)
        * [动态管理](news.md)
