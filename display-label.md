@@ -12,7 +12,7 @@
 2、设置标签字段（需要显示的内容）和显示样式。
  ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-3.png)
 
-3、设置完成后，点击应用，显示效果如下：
+3、设置完成后，点击**应用**，显示效果如下：
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-2.png)
 
 
