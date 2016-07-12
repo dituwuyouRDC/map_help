@@ -30,6 +30,10 @@
 ![](https://pic.dituwuyou.com/map%2Fpicture%2F11.7%2F2015-11-02_15-40-15.jpg)
 
 
-**3、删除地图**
+**3、备份地图**
+
+点击地图名称右侧的 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fdelete.png) ->"备份"，实现对当前地图的完全复制，包括图层、记录、照片、风格等，新生成的地图以 “原地图名称”+“_”+"日期时间"命名，用户可根据需要自行修改。
+
+**4、删除地图**
 
 点击地图名称右侧的 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fdelete.png) 可以打开“删除地图”菜单，点击即可删除。地图删除后，不可恢复，请小心操作。只有团队管理员可以删除地图。
