@@ -19,8 +19,8 @@
 ## 文本渲染
 1、设置要显示的文字内容为标题字段：图层设置->标题设置->设置要显示的内容为标题字段。
 
-2、图层设置->渲染方式->文本渲染，地图仅显示标注点的标题文字，显示效果如下：
+2、显示设置->文本->设置字体及颜色，地图仅显示标注点的标题文字，显示效果如下：
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting3.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-4.png)
 
 
