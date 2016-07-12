@@ -9,7 +9,7 @@
 
 1、点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口。
 
-2、点击标签设置菜单，选择需要显示的字段和标签显示风格，点“应用”就可以在地图上看到内容。目前标签的显示风格根据字体、边框、对齐方式的不同，分为六种，后续会支持更多的风格，敬请期待。
+2、设置标签字段和显示风格。
  ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-3.png)
 
 3、 显示效果如下：
