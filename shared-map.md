@@ -4,4 +4,4 @@
 
 默认情况下，只有地图团队成员才可以访问地图，如果要把地图分享给没有地图无忧帐号的用户或是要把地图嵌入自己的业务网站，可以设置为任何人都可以访问。在编辑状态下进入地图，点击左侧“分享”菜单进入权限设置页面，可以根据需要进行修改。
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2F10.31%2Fshare3.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fsharemap.png)
