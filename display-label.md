@@ -9,11 +9,11 @@
 
 1、点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口。
 
-2、设置标签字段和显示风格。
+2、设置标签字段（需要显示的内容）和显示样式。
  ![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-3.png)
 
 3、 显示效果如下：
-![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting2.jpg)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Flabelsetting-2.png)
 
 
 ## 文本渲染
