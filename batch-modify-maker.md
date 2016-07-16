@@ -13,7 +13,7 @@
 
 **小提示**：默认、分类、排序显示的标注图层，若标注密集，建议开启聚合显示。聚合显示将一定范围内相邻的标注聚合成簇状显示，并在聚合的标注上显示其聚合的个数。聚合后地图的展现效果更清晰，显示速度也会更为流畅。  
 
-修改标注图层的样式，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口，选择显示的方式并在样式设置窗口下方进行图案、颜色等参数的设置，设置完成，应用即可在地图上显示修改效果。
+修改标注图层的样式，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开样式设置窗口，选择显示的方式并在样式设置窗口下方进行图案、颜色、是否聚合显示、是否显示标签等参数的设置，设置完成，应用即可在地图上显示修改效果。
 
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmark-layer-style.png)
 
