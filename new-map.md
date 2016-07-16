@@ -3,7 +3,7 @@
 
 登录地图无忧，进入工作台，工作台中以列表的形式呈现了当前登录用户**创建**或是**有权**编辑、查看的地图（新用户注册后，默认提供三幅示例地图）。您可以在工作台中新建、删除及打开地图，查看地图的创建者、更新时间、图层记录数等基本信息，还可以通过右侧的企鹅联系我们的在线客服：
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2Fdashboard.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fdashboard1.png)
 
 **1、打开地图**
 
