@@ -4,10 +4,10 @@
 
 点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fvisible.jpg)，切换隐藏与显示状态。
 
-**2、图层的样式设置**
+**2、图层的显示设置**
 
 点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)打开显示设置窗口，在该窗口中，可以完成以下操作：
-- 显示设置。对图层中所有记录的样式统一管理，如标注的图标、面区域的填充颜色及透明度等。
+- 显示设置。对图层中所有记录的样式统一管理，如标注的图标、面区域的填充颜色及透明度、分类显示、分范围显示等。
 - 标签设置。在地图上显示记录的指定字段内容，如店铺的名称、区域负责人等，选择需要显示的字段，点“应用”就可以在地图上看到内容。目前只支持单字段显示。
 
 **点击 ![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Flayersetting.png) 打开图层设置窗口，完成以下操作：**
