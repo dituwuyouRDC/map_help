@@ -2,7 +2,7 @@
 
 图层中各区域的样式，可以设置为统一风格，也可以根据业务需求按照字段值分类别或分范围区别显示。在制作土地利用图的时候，利用不同的颜色显示来标明土地的使用类型，如，居民用地为红色，水域为蓝色等。
 
-编辑管理模式进入地图，点击显示设置按钮![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)，打开显示设置对话框，可以进行以下操作：
+编辑管理模式进入地图，点击样式设置按钮![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)，进行样式设置：
 
 1、默认：统一样式，设置区域的填充颜色、填充透明度（100为透明，0为不透明）、轮廓（边界）颜色、轮廓（边界）宽度、轮廓透明度为指定样式。鼠标移动到相应的参数**值**上方，点击即可修改。
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-01.png)
