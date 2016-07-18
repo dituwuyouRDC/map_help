@@ -8,10 +8,8 @@
 
 3、[添加及编辑标注](/addmarker.html)
 
-4、[制作热力图](/create-heatmap.html)
+4、[添加线路及设置线路样式](/add-line.html)
 
-5、[添加线路及设置线路样式](/add-line.html)
-
-6、[添加区域及设置区域样式](/draw-region.html)
+5、[添加区域及设置区域样式](/draw-region.html)
 
 
