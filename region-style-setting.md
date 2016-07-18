@@ -5,7 +5,7 @@
 编辑管理模式进入地图，点击显示设置按钮![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fheatstyle.png)，打开显示设置对话框，可以进行以下操作：
 
 1、默认：统一样式，设置区域的填充颜色、填充透明度（100为透明，0为不透明）、轮廓（边界）颜色、轮廓（边界）宽度、轮廓透明度为指定样式。鼠标移动到相应的参数**值**上方，点击即可修改。
-![image](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-1.png)
+![](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-1.png)
 
 2、分类显示：将区域按照字段值用不同的样式显示，如，小张的业务区域显示为红色，小王的显示为黄色。显示设置->分类->设置显示字段->设置分类方式->设置显示风格，应用即可。
 ![image](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-2.png)
