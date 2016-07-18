@@ -17,5 +17,5 @@
 2）点击“范围”，默认分为两段，点击下拉列表框，可以修改段数。选择段数后，值域框中会按等个数的方法，自动生成左开右闭的区间数据，此处，用户可自行修改。
 
 3）设置每个区间的显示风格，应用即可。
-![image](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-3.png)
+![image](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-style-setting-03.png)
 
