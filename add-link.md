@@ -4,7 +4,9 @@
 
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fhyperlink.png)
 
-地图无忧中，不需要编程就可以实现这样的效果，将字段值按以下形式组织即可：```<a href=网址>网站标识</a>```，例如 ```<a href='http://www.icbc.com.cn/icbc/'>中国工商银行(中关村支行)</a>```，需要注意的是，url 上的引号必须是英文字符，单引号或是双引号均可。如果需要在新窗口中打开链接，在url后面空格加上target="_blank" ，如```<a href='http://www.icbc.com.cn/icbc/' target="_blank">中国工商银行(中关村支行)</a>```
+地图无忧中，不需要编程就可以实现这样的效果，将字段值按以下形式组织即可：```<a href=网址>网站标识</a>```，例如 ```<a href='http://www.icbc.com.cn/icbc/'>中国工商银行(中关村支行)</a>```，需要注意的是，url 上的引号必须是英文字符，单引号或是双引号均可。
+
+如果需要在新窗口中打开链接，在url后面空格加上target="_blank" ，如```<a href='http://www.icbc.com.cn/icbc/' target="_blank">中国工商银行(中关村支行)</a>```
 
 如果需要将链接信息直接显示在地图上，[将字段设置为标签](/display-label.html)即可。
 
