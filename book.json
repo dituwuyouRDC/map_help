@@ -6,11 +6,7 @@
     ],
     "pluginsConfig": {
         "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": [
-                "地图",
-                "数据"
-            ]
+            "cutWordLib": "nodejieba"
         }
     }
 }
