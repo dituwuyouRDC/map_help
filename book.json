@@ -1,8 +1,13 @@
 {
     "plugins": [
         "-sharing",
-        "-lunr",
-        "search-jieba"
+        "-search",
+       "search-pro"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "search-pro": {
+           "cutWordLib": "nodejieba",
+           "defineWord": ["地图", "数据"]
+       }
+    }
 }
