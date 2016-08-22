@@ -16,8 +16,11 @@
  ![image](https://pic.dituwuyou.com/map%2Fpicture%2Fnews2.PNG)
 - 网页端添加:编辑管理模式进入地图，选择要添加的标注，点信息窗中的![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fnewsicon.png),新增动态 ，按模板输入动态的内容发布即可。如果需要在动态中上传照片，点![image](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fcamera.jpg) 即可。
 
-3、编辑动态。如果要更新动态内容，需要
+3、编辑动态,更新动态中的字段内容，动态的创建时间等系统字段不予更新。
 
+3.1 由地图管理员或是地图成员在网页端打开动态对应模板的“动态可编辑”选项：
+![](https://pic.dituwuyou.com/map/picture/news4.png)
+3.2 编辑管理模式进入地图->选中标注->点击![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fnewsicon.png)查看动态->点击待修改动态记录的![http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/news4.png](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fnewsdelete.png)->更新->填入新的内容，发布。手机端也可以更新动态内容。
 
 4、查看动态。
 - 手机端查看：手机端目前只能查看单条标注的动态。选中标注，打开信息窗，切换到动态窗口即可查看。
