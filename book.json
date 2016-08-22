@@ -1,8 +1,8 @@
 {
     "plugins": [
         "-sharing",
-        "-search",
-        "-search-pro"
+        "-lunr",
+        "search-jieba"
     ],
     "pluginsConfig": {}
 }
