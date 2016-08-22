@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "share",
+        "-share",
         "-search",
         "search-pro"
     ],
