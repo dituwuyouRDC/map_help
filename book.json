@@ -1,20 +1,13 @@
 {
-    "plugins": [        
-        "-sharing"
+    "plugins": [
+        "-sharing",
+        "-search",
+        "search-pro"
     ],
-     "pluginsConfig": {
-        "sharing": {
-            "facebook": false,
-            "twitter": false,
-            "google": false,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper"
-            ]
+    "pluginsConfig": {
+      "search-pro": {
+          "cutWordLib": "nodejieba",
+          "defineWord" : ["地图","数据"]
         }
     }
-    
 }
