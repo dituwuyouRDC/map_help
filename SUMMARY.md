@@ -25,7 +25,7 @@
        * [批量设置标注样式](batch-modify-maker.md)
        * [编辑标注数据](mark-data.md)
        * [动态管理](news.md)
-       * [update](update.md)
+       * [批量更新属性内容](update.md)
    * [添加及编辑线路](add-line.md)
        * [批量设置线路样式](line-style-setting.md)
    * [添加及编辑区域](draw-region.md)
