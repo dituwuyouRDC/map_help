@@ -13,7 +13,7 @@
 - [管理地图协作成员](/map-member-invite.html) 
 - [管理图层协作成员](/layer-member-invite.html) 
 - [任务分派](/feature-member-invite.html)
-- [定位监控](/members-locations.html)
+- [定位监控](/members-location.html)
 
 
 附表：地图操作权限细分
