@@ -65,7 +65,7 @@
    * [如何添加线路](m-addline.md)
    * [如何添加照片](m-add-picture.md)
    * [如何修改单个标注的样式](m-marker-style-setting.md)
-   * 如何添加区域
+   * [如何添加区域](m-addregion.md)
 * [订单分拣](dispatch.md)
    * [操作流程](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
