@@ -1,10 +1,13 @@
 # 数据可以下载吗
 
-用户的网点标注数据支持下载成Excel文件，数据下载，只有地图管理员可以操作。
+用户的网点标注数据支持下载成 Excel 文件，只有地图管理员可以进行数据下载。以编辑管理模式进入地图，在“工具箱”中打开“数据下载”开关：
 
 * 
-下载全部数据：以编辑管理的模式打开地图，在“工具箱”中打开“数据下载”开关，切换到“下载”菜单，选择相应图层，下载即可。
+下载图层中全部数据：打开“下载”菜单，选择相应图层，下载即可。
 
 * 
-下载部分数据：以编辑管理的模式打开地图，在“工具箱”菜单中打开“数据下载”开关，在图层的数据视图中，勾选需要下载的记录，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fexport-excel.png)完成下载。
+下载图层中部分数据：打开数据视图，勾选需要下载的记录，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fexport-excel.png)完成下载。
+
+* 框选下载数据：点击工具栏按钮“批量框选标注点”![](https://pic.dituwuyou.com/map%2Fpicture%2Fregion-select.png)，弹出的数据视图中，点击![](https://pic.dituwuyou.com/map%2Fpicture%2Fexport-excel.png)完成下载。
+
 
