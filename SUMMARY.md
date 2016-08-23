@@ -41,6 +41,7 @@
    * [管理地图协作成员](map-member-invite.md)
    * [管理图层协作成员](layer-member-invite.md)
    * [管理记录成员](feature-member-invite.md)
+   * 位置监控
 * [使用地图](use-map.md)
    * [嵌入网站](map-embed.md)
    * [移动设备上使用地图](mobile.md)
