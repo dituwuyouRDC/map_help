@@ -40,7 +40,7 @@
    * [管理团队](team-setting.md)
    * [管理地图协作成员](map-member-invite.md)
    * [管理图层协作成员](layer-member-invite.md)
-   * [管理记录成员](feature-member-invite.md)
+   * [任务分派](feature-member-invite.md)
    * [定位监控](member-location.md)
 * [使用地图](use-map.md)
    * [嵌入网站](map-embed.md)
