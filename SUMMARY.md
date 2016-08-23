@@ -68,5 +68,4 @@
 * [订单分拣](dispatch.md)
    * [操作流程](dispatch-workflow.md)
    * [地址纠错](address-correction.md)
-   * [成员管理](dispatch-members .md)
 
