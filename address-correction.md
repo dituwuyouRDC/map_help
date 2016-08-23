@@ -24,11 +24,7 @@ B.	对于错误或是新增的地址，搜索不到时，就需要经验人员�
 
 4）	点击地图工具栏上按钮![](https://pic.dituwuyou.com/map%2Fpicture%2Faddmarker.png)，在相应地点点击，弹出的信息框中输入需要绑定的地址名称，点击信息窗口右下角的完成图标 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fyes.png)  以完成关键词和业务区域的绑定。
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-3.png)
-
 5）	一个地点，可以绑定多个关键词。
-
-![](https://pic.dituwuyou.com/map%2Fpicture%2Fkeywords-binding-2.png)
 
 6）	如果标错了或是位置不准确，在地图上选中相应标注，在弹出的信息框中点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，开启标注的编辑模式,在地图中按左键拖动到新的位置即可。
 
