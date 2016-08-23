@@ -33,11 +33,14 @@ b. 编辑区域形状
 c. 删除区域节点
 进入节点编辑模式，双击节点，在弹出的对话框中，确认是否删除。删除时需要谨慎，一经删除，不可恢复。
 
-d. 编辑区域说明信息
+d. 删除区域节点
+进入节点编辑模式，双击节点，在弹出的对话框中，确认是否删除。删除时需要谨慎，一经删除，不可恢复。
+
+e. 编辑区域说明信息
 
 点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fedit.jpg)，信息窗上文本框变为可写状态。修改完成后，点![](https://pic.dituwuyou.com/map-picture-icon-yes.png)完成即可。
 
-e. 删除区域
+f. 删除区域
 
 点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除。删除操作不可撤销，请确认后再进行删除。
 
