@@ -28,7 +28,7 @@
 
 13、[如何添加区域](/m-addregion.html)
 
-13、[如何添加照片](/m-add-picture.html)
+14、[如何添加照片](/m-add-picture.html)
 
-14、[如何修改单个标注的样式](/m-marker-style-setting.html)
+15、[如何修改单个标注的样式](/m-marker-style-setting.html)
 
