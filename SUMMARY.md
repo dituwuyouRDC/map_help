@@ -36,7 +36,7 @@
    * [迁移图层数据](copy-data.md)
    * [自定义地图主题](custom-map.md)
    * [在表格中管理数据](data-tale-view.md)
-* [协作](map-permissions.md)
+* [团队协作](map-permissions.md)
    * [管理团队](team-setting.md)
    * [管理地图协作成员](map-member-invite.md)
    * [管理图层协作成员](layer-member-invite.md)
