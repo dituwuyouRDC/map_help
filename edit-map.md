@@ -7,6 +7,6 @@
 4. [迁移图层数据](/copy-data.html)
 5. [自定义地图主题](/custom-map.html)
 6. [在表格中管理数据](/data-tale-view.html)
-7. 修改字段类型
+7. [修改字段类型](/fieldtype.html)
 
 
