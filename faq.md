@@ -8,5 +8,8 @@
 7. [怎么在属性中添加超链接](/add-link.html)
 8. [地图发布后是否所有人都能看到](/map-publish.html)
 9. [如何让自动定位更精准](/accurate-positioning.html)
-10. [如何快速添加行政区](/import-region.html)
+10. [如何按不同风格分类显示标注](/group-mark.html)
+11. [如何快速添加行政区](/import-region.html)
+12. [如何在微信公众号嵌入地图](/weixin-embed.html)
+13. [如何创建热力图](/create-heatmap.html)
 
