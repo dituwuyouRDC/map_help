@@ -14,7 +14,7 @@
    * [如何按不同风格分类显示标注](group-mark.md)
    * [如何快速添加行政区](import-region.md)
    * [如何在微信公众号嵌入地图](weixin-embed.md)
-   * 如何创建热力图
+   * [如何创建热力图](create-heatmap.md)
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
