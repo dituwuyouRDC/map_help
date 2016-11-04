@@ -53,7 +53,6 @@
    * [统计分析](statistic-analysis.md)
    * [智能线路规划](path.md)
    * [缓冲区分析](buffer.md)
-   * 监控预警
    * [分析功能/监控](fen_xi_gong_80fd_jian_kong.md)
 * [手机 APP](mobile-app.md)
    * [什么是快速体验](m-getting-started.md)
