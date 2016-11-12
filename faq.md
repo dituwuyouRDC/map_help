@@ -11,5 +11,6 @@
 10. [如何按不同风格分类显示标注](/group-mark.html)
 11. [如何快速添加行政区](/import-region.html)
 12. [如何在微信公众号嵌入地图](/weixin-embed.html)
-13. [如何创建热力图](/create-heatmap.html)
+13. [如何创建热力图](/create-heatmap.html)  
+14. [怎么样设置便捷筛选器](http://note.youdao.com/)
 
