@@ -15,7 +15,7 @@
    * [如何快速添加行政区](import-region.md)
    * [如何在微信公众号嵌入地图](weixin-embed.md)
    * [如何创建热力图](create-heatmap.md)
-   * [怎么样设置便捷筛选器](Filter.md)
+   * [怎么样设置便捷筛选器](filter.md)
 * [创建地图](map.md)
    * [创建及打开地图](new-map.md)
    * [认识图层](layer.md)
