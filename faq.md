@@ -12,5 +12,5 @@
 11. [如何快速添加行政区](/import-region.html)
 12. [如何在微信公众号嵌入地图](/weixin-embed.html)
 13. [如何创建热力图](/create-heatmap.html)  
-14. [怎么样设置便捷筛选器](http://note.youdao.com/)
+14. [怎么样设置便捷筛选器](/cur-layer.html)
 
