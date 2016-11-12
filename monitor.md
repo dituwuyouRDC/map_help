@@ -17,7 +17,7 @@
 ●选择监控范围：想要进行预警的图层  
 ●选择预警方式：闪烁、语音、消息  
 ![image](http://note.youdao.com/favicon.ico)  
-![image](http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/monitor/monitor3.png)  
+![] (http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/monitor/monitor3.png)  
 
 **注意事项：**  
 ●一个地图可以设置最多4个预警项  
