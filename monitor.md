@@ -4,7 +4,7 @@
 对于任务指标、任务更新、任务到期进行监控预警，给予用户提前预警  
 
 1、使用监控预警功能，以编辑管理模式进入地图->工具箱->监控预警：  
-![](http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/monitor/monitor1.png)  
+![](https://pic.dituwuyou.com/map/picture/monitor/monitor1.png)  
 2、 点击左侧“预警”菜单，点“添加预警项”，在预警项设置中默认名称为“未命名”，跟据实际情况和用途进行编辑。  
 设置预警名称->选择预警类型->选择监控范围->填写监控指标->选择预警方式->确定  
 
@@ -16,8 +16,8 @@
 3）数据更新：支持新增、删除、修改提醒  
 ●选择监控范围：想要进行预警的图层  
 ●选择预警方式：闪烁、语音、消息  
-![](http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/monitor/monitor2.png)  
-![](http://dituwuyou-gitbooks.oss-cn-beijing.aliyuncs.com/map/picture/monitor/monitor3.png)  
+![](https://pic.dituwuyou.com/map/picture/monitor/monitor2.png)  
+![](https://pic.dituwuyou.com/map/picture/monitor/monitor3.png)  
 
 **注意事项：**  
 ●一个地图可以设置最多4个预警项  
