@@ -1,6 +1,6 @@
 # 如何创建、管理图层
 
-进入地图，点击 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png)->新建图层，选择需要创建的图层类型->输入图层名称->点击“完成”。目前在手机端创建区域图层的功能正在开发中，敬请期待，如果需要创建，请先使用网页端进行操作。
+进入地图，点击 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Flayers.png)->新建图层，选择需要创建的图层类型->输入图层名称->点击“完成”。
 
 ![](https://pic.dituwuyou.com/map%2Fpicture%2Fmobile%2Fm-addlayer.png)
 
