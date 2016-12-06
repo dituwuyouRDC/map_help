@@ -31,7 +31,7 @@
        * [批量设置线路样式](line-style-setting.md)
    * [添加及编辑区域](draw-region.md)
        * [批量设置区域样式](region-style-setting.md)
-   * [如何创建广告模板地图](ad templates)
+   * [如何创建广告模板地图](ad templates/ad_templates.md)
 * [团队协作](map-permissions.md)
    * [管理团队](team-setting.md)
    * [管理地图协作成员](map-member-invite.md)
