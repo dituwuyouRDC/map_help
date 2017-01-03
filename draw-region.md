@@ -12,7 +12,7 @@
 
 如果需要在地图上绘制销售片区、配送范围、学校招生范围、民警管辖片区、商圈等自定义区域，点击工具栏中的“**添加区域**”按钮，在地图上**用鼠标点击，绘制你需要的片区范围，双击结束即可**。重复绘制，便可轻松完成整个地区的片区划分、配送范围划分。
 
-![](https://pic.dituwuyou.com/map%2Fpicture%2Faddregion1.png)
+![](https://pic.dituwuyou.com/map/picture/draw-region/draw-region1.png)
 
 **4、添加圆形区域**
 
@@ -46,5 +46,5 @@ f. 删除区域
 
 点击图标![](https://pic.dituwuyou.com/map%2Fpicture%2Ficon%2Fdelete.jpg)，即可删除。删除操作不可撤销，请确认后再进行删除。
 
-
 此外，如果你在其他平台或软件已经绘制好了区域数据，也可以联系我们帮你导入，无需重复绘制。
+
