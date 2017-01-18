@@ -3,6 +3,8 @@
 通过筛选器，用户可以自定义多个维度的筛选条件，实时筛选查询数据，提高用户的使用效率。  
 注：地图管理员和地图成员可以编辑设置筛选器，设置完成后所有协作成员都可以使用筛选器进行快速筛选查询  
 
+{% videoplayer id="docker-myvideo" width="640" height="480" posterExt="png" %}[https://s3.amazonaws.com/gitbooks/myvideo](https://assets.dituwuyou.com/resource/videos/helps/Custom-Filter.mp4){% endvideoplayer %}
+
 #### 筛选器使用说明
 
 1、以编辑管理模式进入地图-&gt;工具箱-&gt;筛选器：  
