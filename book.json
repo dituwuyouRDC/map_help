@@ -2,7 +2,8 @@
     "plugins": [
         "-sharing",
         "-search",
-        "search-pro"
+        "search-pro",
+        "video-player"    
     ],
     "pluginsConfig": {
     }
